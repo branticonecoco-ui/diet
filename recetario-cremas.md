@@ -7,7 +7,7 @@ Cada receta está diseñada para obtener **cinco porciones iguales**, normalment
 - Los pesos de verduras corresponden al alimento crudo, limpio y listo para cocinar.
 - Legumbres, lentejas, guisantes y edamame se pesan cocidos y escurridos.
 - El tofu se pesa escurrido.
-- El agua indicada es inicial: después de triturar se añade solo la necesaria para obtener la textura deseada. Se pesa el lote completo y se divide entre cinco.
+- El agua o caldo indicado es inicial. En las recetas de cocción en líquido se utiliza primero la menor cantidad práctica y se conserva; en las recetas asadas se incorpora al reunir los ingredientes. Después de triturar se añade solo lo necesario para obtener la textura deseada. Se pesa el lote completo y se divide entre cinco.
 - Se utilizará agua o caldo bajo en sal. Las legumbres en conserva se enjuagan y la sal, si se añade, será preferentemente yodada. Comparar etiquetas para evitar acumular sodio con pan y conservas del resto del día.
 - AOVE, semillas, frutos secos, cítricos, vinagre, hierbas y mostaza se añaden a cada ración al servir y no se congelan con la crema.
 - La batidora se utilizará en dos tandas, respetando las marcas y límites de temperatura del manual.
@@ -21,7 +21,7 @@ Preparar primero una o dos recetas utilizando la mitad de todos los ingredientes
 1. Lavar, limpiar y pesar todos los ingredientes.
 2. Cortar las crucíferas —brócoli, coliflor, kale, lombarda, berros o rúcula— y dejarlas reposar 30–40 minutos antes de calentarlas cuando la receta lo indique.
 3. Machacar el ajo y dejarlo reposar unos 10 minutos antes de cocinarlo.
-4. Cocinar con la menor cantidad práctica de agua y conservar todo el líquido.
+4. Seguir el método indicado en cada receta. Para estas cremas se usa cocción en líquido, horno o sartén con acabado en líquido; no hace falta utilizar la vaporera Kenwood. Usar la menor cantidad práctica de agua o caldo y conservarla toda.
 5. Añadir hojas y verduras sensibles al calor durante los últimos minutos.
 6. Dejar que la preparación alcance una temperatura admitida por el manual de la Braun.
 7. Triturar en dos tandas: comenzar a baja velocidad y terminar 30–60 segundos a alta velocidad, hasta obtener una textura fina.
@@ -53,6 +53,8 @@ Preparar primero una o dos recetas utilizando la mitad de todos los ingredientes
 - Una pizca de mostaza en polvo
 
 ### Elaboración
+
+**Método:** cocción en líquido. No se utiliza la vaporera Kenwood.
 
 1. Cortar brócoli, kale y lombarda y dejarlos reposar 30–40 minutos.
 2. Machacar el ajo y dejarlo reposar 10 minutos.
@@ -91,9 +93,11 @@ Crucíferas, antocianinas, vitamina C, vitamina K, folato, hierro, magnesio, fib
 
 ### Elaboración
 
+**Método:** asado en horno y acabado en líquido. No se utiliza la vaporera Kenwood.
+
 1. Machacar el ajo y esperar 10 minutos.
 2. Asar tomate, cebolla, zanahoria, calabacín y 250 g del pimiento, sin carbonizarlos.
-3. Incorporar garbanzos, concentrado de tomate, ajo, especias y líquido.
+3. Pasar las verduras asadas a una olla, incorporar garbanzos, concentrado de tomate, ajo, especias y el líquido inicial, y calentar el conjunto.
 4. Reservar los otros 100 g de pimiento para añadirlos durante los últimos 1–2 minutos o al triturar con la preparación caliente.
 5. Triturar, ajustar la textura y dividir el lote por peso en cinco porciones iguales.
 
@@ -130,9 +134,11 @@ Comprobar en la etiqueta que el tofu incluya sulfato cálcico u otra sal de calc
 
 ### Elaboración
 
+**Método:** cocción en líquido. No se utiliza la vaporera Kenwood.
+
 1. Cortar el brócoli y dejarlo reposar 30–40 minutos.
-2. Cocinar puerro y calabacín; incorporar después brócoli, kale y guisantes.
-3. Añadir edamame completamente cocido y tofu.
+2. Cocinar puerro y calabacín con parte de los 450 ml de agua o caldo; incorporar después brócoli, kale y guisantes durante los últimos minutos.
+3. Añadir el edamame completamente cocido y el tofu, y calentar el conjunto; reservar líquido para ajustar la textura al triturar.
 4. Incorporar los berros directamente al triturar con la crema caliente.
 5. Ajustar la textura y dividir el lote por peso en cinco porciones iguales.
 
@@ -168,8 +174,10 @@ Las setas comunes contienen ergosterol, pero solo deben contabilizarse como fuen
 
 ### Elaboración
 
-1. Cocinar cebolla, calabaza, boniato y zanahoria hasta que estén tiernos.
-2. Cocinar bien las setas e incorporarlas con jengibre, cúrcuma y pimienta.
+**Método:** cocción en líquido, con las setas cocinadas aparte. No se utiliza la vaporera Kenwood.
+
+1. Cocinar cebolla, calabaza, boniato y zanahoria con parte de los 550 ml de agua o caldo hasta que estén tiernos.
+2. Cocinar bien las setas aparte e incorporarlas a la olla con jengibre, cúrcuma y pimienta.
 3. Añadir las lentejas y calentarlas completamente.
 4. Triturar, ajustar la textura y dividir el lote por peso en cinco porciones iguales.
 
@@ -203,10 +211,12 @@ Betacaroteno, hierro, zinc, magnesio, folato, proteína y, cuando las setas est�
 
 ### Elaboración
 
+**Método:** dorado en sartén y cocción en líquido. No se utiliza la vaporera Kenwood.
+
 1. Cortar la coliflor y dejarla reposar 30–40 minutos.
 2. Machacar el ajo y esperar 10 minutos.
 3. Dorar ligeramente las setas sin quemarlas.
-4. Cocinar cebolla, puerro, apionabo y coliflor; añadir después setas y alubias.
+4. Cocinar cebolla, puerro, apionabo y coliflor con parte de los 500 ml de agua o caldo; añadir después las setas doradas y las alubias, y calentarlo todo.
 5. Incorporar la rúcula al triturar, evitando una cocción prolongada.
 6. Ajustar la textura y dividir el lote por peso en cinco porciones iguales.
 
@@ -240,9 +250,11 @@ Glucosinolatos, compuestos azufrados, vitamina E, folato, cobre, hierro, magnesi
 
 ### Elaboración
 
+**Método:** asado en horno y acabado en líquido. No se utiliza la vaporera Kenwood.
+
 1. Conservar la piel de la berenjena y asarla con tomate, pimiento y cebolla, sin carbonizar.
-2. Cocinar brevemente la lombarda.
-3. Incorporar ajo reposado, remolacha, alubias y especias, y calentarlo todo.
+2. Cocinar brevemente la lombarda en una olla con parte de los 350 ml de agua o caldo.
+3. Incorporar a la olla las verduras asadas, el ajo reposado, la remolacha, las alubias y las especias; añadir el resto del líquido que sea necesario y calentarlo todo.
 4. Triturar, ajustar la textura y dividir el lote por peso en cinco porciones iguales.
 
 ### Interés nutricional
@@ -279,9 +291,11 @@ Si se utilizan alcachofas en conserva, escurrirlas y enjuagarlas para reducir so
 
 ### Elaboración
 
+**Método:** cocción en líquido. No se utiliza la vaporera Kenwood.
+
 1. Cortar el brócoli y dejarlo reposar 30–40 minutos.
-2. Cocinar completamente las judías verdes con cebolla y alcachofa.
-3. Añadir después brócoli y guisantes.
+2. Cocinar completamente las judías verdes con cebolla y alcachofa en parte de los 550 ml de agua o caldo.
+3. Añadir después brócoli y guisantes durante los últimos minutos, reservando líquido para ajustar la textura al triturar.
 4. Incorporar romana, tofu y ajo reposado durante los últimos minutos.
 5. Triturar, ajustar la textura y dividir el lote por peso en cinco porciones iguales.
 6. Añadir la chía solamente al servir, porque espesará mucho si se incorpora antes de congelar.
