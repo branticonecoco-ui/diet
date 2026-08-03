@@ -24,115 +24,164 @@ No hace falta cumplirlo al minuto. Si cambia la hora de levantarse, se desplazan
 
 # Desayunos
 
-## Lunes — Bol de yogur, avena y arándanos
+## Tostada diaria
+
+La base es pan integral tostado, tomate triturado y AOVE. El topping proteico cambia durante la semana.
+
+Mientras quede jamón cocido, utilizar **50 g de jamón cocido** en las tostadas de lunes, miércoles, jueves y sábado en lugar del topping permanente. Elegir preferentemente un producto con un porcentaje alto de carne y conservarlo según la etiqueta. Al terminarlo, seguir la rotación indicada.
+
+### Preparación base
+
+1. Tostar el pan.
+2. Triturar o rallar el tomate y extenderlo sobre el pan.
+3. Añadir el AOVE medido.
+4. Colocar encima el topping del día.
+
+## Lunes — Bol de yogur y tostada de requesón
 
 ### Ingredientes
 
-- 150 g de skyr
-- 60 g de copos de avena
+- 250 ml de leche o bebida de soja sin azúcar enriquecida con calcio
+- 150 g de skyr o yogur alto en proteína
+- 40 g de copos de avena
 - 100 g de arándanos congelados
 - 15 g de germen de trigo
 - 10 g de lino recién molido
-- 20 g de nueces
+- 10 g de nueces
+- 50 g de pan integral
+- 100 g de tomate triturado
+- 5 g de AOVE
+- 80 g de requesón o cottage
 
 ### Preparación
 
 1. Pasar los arándanos a la nevera la noche anterior o descongelarlos brevemente en el microondas.
 2. Mezclar skyr, avena y germen de trigo.
 3. Añadir arándanos, lino y nueces justo antes de comer.
-4. Si queda demasiado espeso, añadir un poco de agua, leche o bebida de soja enriquecida sin azúcar.
+4. Preparar la tostada base y cubrirla con el requesón o cottage.
+5. Tomar la leche o bebida de soja aparte o utilizar parte para ajustar la textura del bol.
 
-## Martes — Tostas con huevo, aguacate y tomate
+## Martes — Tostadas con huevo y aguacate
 
 ### Ingredientes
 
-- 3 huevos
+- 250 ml de leche o bebida de soja sin azúcar enriquecida con calcio
+- 2 huevos
 - 80 g de pan integral
+- 150 g de tomate triturado
+- 5 g de AOVE
 - 70 g de aguacate
-- 150 g de tomate
 - 125 g de yogur natural
 - 1 kiwi
 
 ### Preparación
 
 1. Cocer los huevos en el hervidor o prepararlos revueltos sin quemarlos.
-2. Tostar el pan y cubrirlo con aguacate, tomate y huevo.
-3. Tomar el yogur y el kiwi aparte.
+2. Preparar las tostadas y cubrirlas con aguacate y huevo.
+3. Tomar la leche o bebida de soja, el yogur y el kiwi aparte.
 
 Los huevos cocidos pueden prepararse por adelantado y conservarse con cáscara en la nevera hasta una semana.
 
-## Miércoles — Bol de cacao, chía y almendra
+## Miércoles — Bol de cacao y tostada de sardina
 
 ### Ingredientes
 
+- 250 ml de leche o bebida de soja sin azúcar enriquecida con calcio
 - 150 g de skyr
-- 60 g de avena
+- 40 g de avena
 - 100 g de arándanos
 - 10 g de chía molida
-- 30 g de almendras
+- 15 g de almendras
 - 5 g de cacao puro sin azúcar
+- 50 g de pan integral
+- 100 g de tomate triturado
+- 5 g de AOVE
+- 60 g de sardinas escurridas con espina
 
 ### Preparación
 
-Mezclar todo excepto las almendras y dejar reposar 5–10 minutos. Añadir las almendras al final para mantener textura. También puede prepararse la noche anterior.
+1. Mezclar skyr, avena, arándanos, chía y cacao y dejar reposar 5–10 minutos.
+2. Añadir las almendras al final.
+3. Preparar la tostada base y colocar encima las sardinas escurridas.
+4. Tomar la leche o bebida de soja aparte.
 
-## Jueves — Kéfir con avena, germen y lino
+Las sardinas deben escurrirse bien antes de colocarlas sobre la tostada.
+
+## Jueves — Kéfir con avena y tostada de requesón
 
 ### Ingredientes
 
 - 250 ml de kéfir natural
 - 100 g de skyr
-- 50 g de avena
+- 40 g de avena
 - 100 g de arándanos
 - 15 g de germen de trigo
 - 10 g de lino molido
-- 20 g de nueces
+- 50 g de pan integral
+- 100 g de tomate triturado
+- 5 g de AOVE
+- 80 g de requesón o cottage
 
 ### Preparación
 
-Mezclar kéfir y skyr, incorporar avena y germen y terminar con arándanos, lino y nueces. Si se prepara la noche anterior tendrá una textura similar a gachas frías.
+1. Mezclar kéfir, skyr, avena y germen de trigo.
+2. Terminar con arándanos y lino; si se prepara la noche anterior tendrá una textura similar a gachas frías.
+3. Preparar la tostada base y cubrirla con el requesón o cottage.
 
-## Viernes — Tostas de requesón y tomate
+## Viernes — Tostadas de requesón y tomate
 
 ### Ingredientes
 
-- 200 g de requesón o cottage
+- 250 ml de leche o bebida de soja sin azúcar enriquecida con calcio
+- 150 g de requesón o cottage
 - 80 g de pan integral
-- 150 g de tomate
+- 150 g de tomate triturado
+- 5 g de AOVE
 - 100 g de arándanos
-- 20 g de nueces
+- 10 g de nueces
 
 ### Preparación
 
-1. Tostar el pan.
-2. Repartir encima requesón y tomate; sazonar con pimienta, orégano y una pequeña cantidad de sal yodada.
-3. Tomar arándanos y nueces como acompañamiento.
+1. Preparar las tostadas base y repartir encima el requesón o cottage.
+2. Sazonar con pimienta, orégano y una pequeña cantidad de sal yodada si hace falta.
+3. Tomar la leche o bebida de soja, los arándanos y las nueces como acompañamiento.
 
-## Sábado — Bol de plátano para día de piscina
+## Sábado — Bol de plátano y tostada con huevo
 
 ### Ingredientes
 
+- 250 ml de leche o bebida de soja sin azúcar enriquecida con calcio
 - 150 g de skyr
-- 70 g de avena
+- 50 g de avena
 - 1 plátano mediano
 - 100 g de arándanos
 - 10 g de chía molida
-- 20 g de crema de cacahuete 100 %
+- 50 g de pan integral
+- 100 g de tomate triturado
+- 5 g de AOVE
+- 1 huevo
 
 ### Preparación
 
-Mezclar los ingredientes. Si la piscina fuese poco después del desayuno, reducir la chía a 5 g y dejar el resto para otro día para evitar exceso de fibra justo antes de nadar.
+1. Mezclar skyr, avena, plátano, arándanos y chía.
+2. Cocer el huevo o prepararlo a la plancha o revuelto.
+3. Preparar la tostada base y colocar encima el huevo.
+4. Tomar la leche o bebida de soja aparte.
 
-## Domingo — Tortilla de setas y espinaca
+Si la piscina fuese poco después del desayuno, desplazar el entrenamiento o dejar al menos 60–90 minutos para evitar nadar inmediatamente después de una comida voluminosa.
+
+## Domingo — Tortilla de setas y tostadas con tomate
 
 ### Ingredientes
 
+- 250 ml de leche o bebida de soja sin azúcar enriquecida con calcio
 - 2 huevos
 - 150 g de setas
 - 80 g de espinaca
 - 80 g de pan integral
+- 100 g de tomate triturado
+- 5 g de AOVE
 - 150 g de yogur natural
-- 20 g de nueces
 - 1 naranja
 
 ### Preparación
@@ -140,7 +189,8 @@ Mezclar los ingredientes. Si la piscina fuese poco después del desayuno, reduci
 1. Cocinar las setas hasta que pierdan el agua y se doren ligeramente.
 2. Añadir la espinaca y cocinar solo hasta que pierda volumen.
 3. Incorporar los huevos batidos y cuajar sin quemar.
-4. Servir con pan tostado, yogur, nueces y naranja.
+4. Preparar las tostadas base.
+5. Servir con la leche o bebida de soja, el yogur y la naranja.
 
 # Comidas
 
