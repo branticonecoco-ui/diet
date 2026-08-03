@@ -6,10 +6,10 @@
 - **16:00 — comida**
 - **20:30 — cena**
 
-## Todos los desayunos
+## Todos los desayunos de lunes a sábado
 
 - 250 ml de leche o bebida de soja sin azúcar enriquecida con calcio, excepto el jueves.
-- Mientras quede jamón cocido: usar 50 g en las tostadas de lunes, miércoles, jueves y sábado en lugar del topping indicado.
+- Mientras quede jamón cocido: usar 50 g en las tostadas de lunes, viernes y sábado en lugar del topping indicado.
 
 ## Lunes
 
@@ -21,13 +21,13 @@
 - 15 g de germen de trigo
 - 10 g de lino molido
 - 10 g de nueces
-- Tostada: 50 g de pan integral, 100 g de tomate triturado, 5 g de AOVE y 80 g de requesón o cottage
+- Tostada: 50 g de pan integral, 100 g de tomate triturado, 5 g de AOVE y 1 huevo
 
 ### Comida
 
 - 120 g de salmón
 - 70 g de quinoa en seco
-- 250 g de ensalada variada
+- 250 g de ensalada variada, incluyendo 100 g de corazones de alcachofa
 - 10 g de AOVE
 - 1 fruta
 
@@ -38,21 +38,21 @@
 - 10 g de lino molido
 - Limón, perejil y una pizca de mostaza en polvo
 - 80 g de pan de centeno integral
-- 100 g de requesón o queso fresco batido
+- 150 g de skyr o yogur alto en proteína
 
 ## Martes
 
 ### Desayuno
 
 - Tostadas: 80 g de pan integral, 150 g de tomate triturado, 5 g de AOVE, 2 huevos y 70 g de aguacate
-- 125 g de yogur natural
+- 125 g de yogur natural con 10 g de chía molida
 - 1 kiwi
 
 ### Comida
 
 - 100 g de pollo
 - 90 g de arroz integral en seco
-- 250 g de verduras al vapor
+- 250 g de verduras al vapor, incluyendo 100 g de judías verdes
 - 10 g de AOVE
 - 1 naranja
 
@@ -104,7 +104,7 @@
 - 100 g de arándanos
 - 15 g de germen de trigo
 - 10 g de lino molido
-- Tostada: 50 g de pan integral, 100 g de tomate triturado, 5 g de AOVE y 80 g de requesón o cottage
+- Tostada: 50 g de pan integral, 100 g de tomate triturado, 5 g de AOVE y 120 g de tofu cuajado con calcio
 
 ### Comida
 
@@ -127,7 +127,8 @@
 
 ### Desayuno
 
-- Tostadas: 80 g de pan integral, 150 g de tomate triturado, 5 g de AOVE y 150 g de requesón o cottage
+- Tostadas: 80 g de pan integral, 150 g de tomate triturado y 5 g de AOVE
+- 150 g de skyr o yogur alto en proteína
 - 100 g de arándanos
 - 10 g de nueces
 
@@ -137,6 +138,7 @@
 - 100 g de pasta integral en seco
 - 200 g de tomate triturado
 - 100 g de espinaca
+- 100 g de guisantes cocidos
 - 10 g de AOVE
 - 1 fruta
 
@@ -162,9 +164,9 @@
 
 ### Comida
 
-- 120 g de sardinas o caballa
+- 120 g de sardinas con espina
 - 350 g de patata
-- 250 g de ensalada variada
+- 250 g de ensalada variada, incluyendo al menos 100 g de lechuga romana
 - 5 g de AOVE
 - 1 fruta
 
@@ -174,31 +176,9 @@
 - 15 g de nueces trituradas
 - 5 g de AOVE
 - Naranja o lima y cilantro o perejil
-- 2 huevos
+- 150 g de skyr o yogur alto en proteína
 - 60 g de pan integral
 
-## Domingo
+## Domingo — Día libre familiar
 
-### Desayuno
-
-- Tortilla de 2 huevos con 150 g de setas y 80 g de espinaca
-- Tostadas: 80 g de pan integral, 100 g de tomate triturado y 5 g de AOVE
-- 150 g de yogur natural
-- 1 naranja
-
-### Comida
-
-- 100 g de pollo o pavo
-- 80 g de cebada o arroz integral en seco
-- 250 g de verduras al vapor
-- 10 g de AOVE
-- 1 fruta
-
-### Cena
-
-- 1 porción de crema verde con alcachofa y tofu rico en calcio
-- 12 g de chía molida
-- 5 g de AOVE
-- Limón, eneldo y pimienta negra
-- 80 g de pan integral
-- 1 fruta
+- Sin menú planificado

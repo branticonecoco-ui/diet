@@ -8,13 +8,13 @@ Cada receta está diseñada para obtener **cinco porciones iguales**, normalment
 - Legumbres, lentejas, guisantes y edamame se pesan cocidos y escurridos.
 - El tofu se pesa escurrido.
 - El agua indicada es inicial: después de triturar se añade solo la necesaria para obtener la textura deseada. Se pesa el lote completo y se divide entre cinco.
-- Se utilizará agua o caldo bajo en sal. Las legumbres en conserva se enjuagan y la sal, si se añade, será preferentemente yodada. Comparar etiquetas para evitar acumular sodio con pan, queso y conservas del resto del día.
+- Se utilizará agua o caldo bajo en sal. Las legumbres en conserva se enjuagan y la sal, si se añade, será preferentemente yodada. Comparar etiquetas para evitar acumular sodio con pan y conservas del resto del día.
 - AOVE, semillas, frutos secos, cítricos, vinagre, hierbas y mostaza se añaden a cada ración al servir y no se congelan con la crema.
 - La batidora se utilizará en dos tandas, respetando las marcas y límites de temperatura del manual.
 
-## Fase piloto antes de cocinar los siete lotes
+## Fase piloto antes de cocinar los seis lotes programados
 
-Preparar primero una o dos recetas utilizando la mitad de todos los ingredientes. Esto permite comprobar sabor, textura y tolerancia a la fibra sin ocupar el congelador con 28 recipientes. Solo después se elaboran los lotes completos.
+Preparar primero una o dos recetas utilizando la mitad de todos los ingredientes. Esto permite comprobar sabor, textura y tolerancia a la fibra sin ocupar el congelador con 24 recipientes. Solo después se elaboran los seis lotes de lunes a sábado. La crema verde adicional queda como opción de reserva.
 
 ## Método general
 
@@ -251,7 +251,9 @@ Antocianinas, betalaínas, licopeno, nitratos vegetales, polifenoles, folato, hi
 
 ---
 
-## Domingo — Verde con alcachofa y tofu rico en calcio
+## Opcional — Verde con alcachofa y tofu rico en calcio
+
+Esta receta no forma parte de la rotación regular de lunes a sábado. Se conserva como alternativa o lote de reserva.
 
 ### Ingredientes para la crema base
 

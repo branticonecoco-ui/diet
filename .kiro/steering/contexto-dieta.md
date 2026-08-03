@@ -31,6 +31,8 @@ Este archivo conserva el contexto, los objetivos y el razonamiento que no deben 
 - La hora de la piscina todavía no está definida.
 - Horario orientativo: se levanta alrededor de las 11:00 y se acuesta alrededor de las 23:00. Los horarios pueden ser irregulares.
 - Prefiere tres comidas diarias, sin media mañana o merienda programadas.
+- El domingo es un día libre familiar: normalmente come en casa de sus padres y no quiere un menú prescrito para ese día.
+- No quiere utilizar queso, requesón, cottage ni queso batido en el planning. Sí mantiene yogur, skyr, kéfir, leche y bebida de soja enriquecida.
 - Patrón alimentario omnívoro: come carne, pescado, marisco, huevos, lácteos, soja y alimentos vegetales.
 - Ha comunicado que no tiene restricciones, alergias o intolerancias alimentarias conocidas ni otros condicionantes relevantes para el plan.
 
@@ -87,15 +89,15 @@ El desayuno funciona como segundo núcleo de micronutrientes junto con las crema
 - una tostada diaria con pan integral, tomate triturado y AOVE;
 - un topping proteico rotatorio.
 
-La tostada se incorporó por petición expresa del usuario. Mientras quede jamón cocido, se emplean 50 g en las tostadas de lunes, miércoles, jueves y sábado en sustitución del topping permanente. Cuando se termine, la rotación estable utiliza requesón o cottage, huevo y sardinas con espina.
+La tostada se incorporó por petición expresa del usuario. Mientras quede jamón cocido, se emplean 50 g en las tostadas de lunes, viernes y sábado en sustitución del topping permanente. No sustituye la sardina del miércoles ni el tofu cálcico del jueves. Cuando se termine, la rotación estable utiliza huevo, sardinas con espina, tofu cuajado con calcio y skyr.
 
-El jamón cocido no se considera prohibido; simplemente no se eligió como opción diaria permanente por ser carne procesada y por su sodio. Las sardinas son la alternativa con mayor densidad de B12, EPA/DHA, vitamina D y calcio cuando se consume la espina.
+El jamón cocido no se considera prohibido; simplemente no se eligió como opción diaria permanente por ser carne procesada y por su sodio. Las sardinas refuerzan B12, EPA/DHA, vitamina D y calcio cuando se consume la espina. El tofu del jueves recupera parte del calcio y proteína que antes dependían de alimentos retirados y de la antigua cena del domingo.
 
 ### Comida
 
 La comida aporta una proteína principal y una fuente de energía:
 
-- pescado azul dos o tres veces según la rotación;
+- pescado azul tres veces: salmón el lunes y sardinas con espina miércoles y sábado;
 - mejillones una vez;
 - ave varias veces;
 - ternera magra una vez;
@@ -104,19 +106,20 @@ La comida aporta una proteína principal y una fuente de energía:
 
 ### Cena
 
-La cena se organiza alrededor de una de las siete cremas y sus toppings específicos. Las cremas incluyen legumbres, tofu o edamame y no son simples purés de verdura. Se acompañan con pan, huevo, lácteo o fruta según el día.
+La cena de lunes a sábado se organiza alrededor de una de las seis cremas programadas y sus toppings específicos. Las cremas incluyen legumbres, tofu o edamame y no son simples purés de verdura. Se acompañan con pan, huevo, yogur o fruta según el día. El domingo no tiene cena prescrita.
 
-## Motivo de las siete cremas
+## Motivo de las seis cremas programadas
 
-La rotación busca diversidad semanal de familias y colores en lugar de repetir una sola crema supuestamente perfecta:
+La rotación de lunes a sábado busca diversidad de familias y colores en lugar de repetir una sola crema supuestamente perfecta:
 
 - lunes: crucíferas verdes y moradas, alubia blanca, antocianinas y glucosinolatos;
 - martes: tomate, pimiento, zanahoria y garbanzo, con licopeno y carotenoides;
 - miércoles: hojas verdes, brócoli, edamame y tofu, con mayor densidad proteica y calcio potencial;
 - jueves: calabaza, boniato, zanahoria, lenteja y setas UV, con carotenoides y posible D2;
 - viernes: coliflor, alliums, setas, rúcula y cannellini;
-- sábado: berenjena, tomate, remolacha, lombarda y alubia negra, con pigmentos rojos y morados;
-- domingo: judías verdes, brócoli, alcachofa, guisantes y tofu cuajado con calcio.
+- sábado: berenjena, tomate, remolacha, lombarda y alubia negra, con pigmentos rojos y morados.
+
+La receta verde de judías, brócoli, alcachofa, guisantes y tofu se mantiene en el recetario como alternativa opcional, pero no se asigna al domingo ni forma parte de los lotes regulares.
 
 Las técnicas culinarias se eligieron para favorecer la conservación o accesibilidad de nutrientes:
 
@@ -137,12 +140,31 @@ Estas técnicas pueden contribuir, pero no deben presentarse como garantía de u
 - Cada receta completa se divide en cinco porciones iguales por peso, normalmente próximas a 500 ml.
 - No se fuerza un volumen final exacto porque la evaporación y densidad cambian entre lotes.
 - Se consume una porción y se congelan cuatro.
-- Siete recetas completas producen 35 porciones: una semana de elaboración y cuatro semanas adicionales de congelador.
-- Antes de producir los siete lotes se recomienda probar una o dos recetas a media escala para comprobar sabor, textura, tolerancia digestiva y espacio de congelador.
-- La producción completa requiere aproximadamente 28 recipientes y alrededor de 14 litros de capacidad de congelación al finalizar la primera semana.
+- Las seis recetas programadas producen 30 porciones: cinco semanas completas de cenas de lunes a sábado.
+- Antes de producir los seis lotes se deben probar una o dos recetas a media escala para comprobar sabor, textura, tolerancia digestiva y espacio de congelador.
+- La producción completa requiere 24 recipientes y alrededor de 12 litros de capacidad de congelación al finalizar la primera semana.
+- La séptima receta verde es opcional y no se prepara como parte del ciclo regular.
 - Cada lote se tritura en dos tandas con la Braun.
 - Las porciones deben enfriarse rápidamente en recipientes bajos, etiquetarse y congelarse.
 - AOVE, semillas, frutos secos, cítricos, hierbas y mostaza se añaden después del recalentado, no antes de congelar.
+
+## Domingo libre y redistribución nutricional
+
+El domingo se considera día libre familiar y su alimentación no se utiliza para garantizar la cobertura semanal. No significa ayuno, atracón obligatorio ni compensación restrictiva el lunes; simplemente no hay menú prescrito porque normalmente come en casa de sus padres.
+
+Para evitar que los nutrientes estratégicos dependan del domingo, se añadieron expresamente estos alimentos de lunes a sábado:
+
+- un huevo el lunes y skyr el viernes y sábado, manteniendo seis huevos planificados en total entre lunes y sábado;
+- tofu cuajado con calcio en la tostada del jueves;
+- chía en el yogur del martes;
+- alcachofa en la ensalada del lunes;
+- judías verdes en las verduras del martes;
+- guisantes en la comida del viernes;
+- lechuga romana en la ensalada del sábado.
+
+Otros alimentos que ya estaban presentes también cubren funciones del antiguo domingo: setas en las cremas de jueves y viernes; espinaca en la comida del viernes; guisantes en la crema del miércoles; tofu en la crema del miércoles; y proteína, B12 y selenio mediante pescado, mejillones, huevos, ave, yogur y skyr.
+
+La suficiencia del domingo en sí no puede asegurarse porque su comida es variable. El objetivo es que los seis días planificados sostengan la diversidad y los nutrientes estratégicos sin depender de lo que se sirva el domingo.
 
 ## Objetivos nutricionales provisionales
 
@@ -151,12 +173,25 @@ Las cifras son hipótesis de diseño, no una prescripción clínica:
 - Metabolismo basal estimado mediante Mifflin–St Jeor: alrededor de 1.615 kcal/día.
 - Mantenimiento sedentario estimado: aproximadamente 1.900–2.000 kcal/día.
 - Con tres sesiones breves de natación: hipótesis inicial aproximada de 1.950–2.150 kcal/día, ajustable por evolución real.
-- Estimación genérica del menú actual: aproximadamente 2.050–2.400 kcal/día, con una media cercana a 2.200 kcal antes de conocer marcas y piezas reales. Puede quedar algo por encima del mantenimiento sedentario estimado; no se recorta por fórmula antes de observar peso, hambre y actividad durante 2–3 semanas.
-- Diseño proteico: aproximadamente 90–110 g/día.
-- Distribución orientativa: 25–35 g en desayuno, 30–40 g en comida y 25–35 g en cena.
-- La dieta completa puede superar 45 g de fibra y acercarse a 60–65 g algunos días.
+- Estimación genérica de los días planificados de lunes a sábado: aproximadamente 2.150–2.400 kcal/día antes de conocer marcas y piezas reales. Puede quedar por encima del mantenimiento estimado; el domingo queda sin cuantificar. Se observarán peso, hambre y actividad durante 2–3 semanas antes de recortar.
+- Proteína estimada: aproximadamente 105–130 g/día, con variación por marcas y por la composición real de las cremas. Es superior al objetivo inicial de 90–110 g y no debe tratarse como un mínimo obligatorio.
+- Distribución aproximada: 30–45 g por comida principal, con algunos días por encima.
+- La fibra estimada es alta de forma habitual, aproximadamente 50–65 g en los días planificados; la fase piloto es obligatoria antes de producir los seis lotes.
 
 La incorporación de la tostada diaria se compensó reduciendo algunas cantidades de avena, frutos secos y toppings respecto a versiones anteriores. No debe suponerse que la tostada se añade sin límite sobre una dieta ya cerrada.
+
+### Auditoría aproximada pendiente de etiquetas
+
+Una reconstrucción con tablas genéricas y una quinta parte de cada crema sugiere, para la rotación estable de lunes a sábado:
+
+- energía cercana al intervalo indicado, con posibilidad de superar el mantenimiento teórico;
+- proteína claramente suficiente y probablemente por encima de la necesidad mínima;
+- fibra alta todos los días, no solo ocasionalmente;
+- calcio probablemente sólido si la bebida enriquecida aporta unos 120 mg/100 ml, el tofu está cuajado con calcio y se consumen sardinas con espina;
+- B12 y EPA/DHA distribuidos de forma desigual por día, pero reforzados semanalmente por salmón, sardinas y mejillones;
+- colina reforzada mediante seis huevos planificados, soja, pescado y legumbres.
+
+Estas conclusiones son estimaciones, no coberturas exactas. Para cuantificar se necesitarán marcas, etiquetas, tipo de sardina, composición del tofu y peso real de las porciones de crema.
 
 ## Nutrientes y puntos críticos
 
@@ -174,10 +209,10 @@ La incorporación de la tostada diaria se compensó reduciendo algunas cantidade
 ### Requieren fuentes específicas o comprobación
 
 - **B12:** pescado, mejillones, huevos, lácteos y alimentos enriquecidos. Probablemente bien aportada si se mantiene la rotación, pero no declarar cobertura exacta sin cálculo.
-- **EPA/DHA:** salmón, sardina y caballa. El ALA vegetal no equivale a una cantidad garantizada de DHA.
+- **EPA/DHA:** salmón y sardina. El ALA vegetal no equivale a una cantidad garantizada de DHA.
 - **Yodo:** sal yodada usada con moderación, pescado, marisco y lácteos. No usar algas diariamente por su variabilidad.
 - **Vitamina D:** continúa siendo el nutriente menos garantizable; setas UV, pescado y productos enriquecidos ayudan, pero pueden no ser suficientes.
-- **Calcio:** leche, kéfir, bebida de soja enriquecida, lácteos, sardina con espina y tofu cuajado con sales de calcio. Comprobar etiquetas.
+- **Calcio:** leche, kéfir, bebida de soja enriquecida, yogur, skyr, sardina con espina y tofu cuajado con sales de calcio. Comprobar etiquetas.
 - **Selenio y colina:** reforzados mediante pescado, marisco y huevos.
 
 ## Tolerancia digestiva y ajuste
@@ -186,7 +221,7 @@ La carga de fibra y volumen es alta. Si aparecen hinchazón, dolor, cambios inte
 
 1. Reducir temporalmente la crema a 300–400 ml.
 2. Reducir algunas semillas o sustituir parte de los cereales integrales por opciones menos fibrosas.
-3. Mantener energía y proteína mediante AOVE, lácteos, huevos, pescado, arroz o pan.
+3. Mantener energía y proteína mediante AOVE, yogur, skyr, huevos, pescado, arroz o pan.
 4. No forzar 500 ml por considerar que más volumen siempre es mejor.
 5. Revisar el plan antes de producir todos los lotes.
 
@@ -217,7 +252,8 @@ Si el peso baja de manera continua sin buscarlo, aumentar energía en bloques mo
 ## Información todavía desconocida
 
 - Hora definitiva de las sesiones de piscina.
-- Marcas y composición exacta de lácteos, bebida de soja, tofu, panes, conservas y jamón cocido.
+- Marcas y composición exacta de yogures, kéfir, bebida de soja, tofu, panes, conservas y jamón cocido.
+- Composición habitual de las comidas familiares del domingo.
 - Analíticas, estado de vitamina D y exposición solar.
 - Capacidad real del congelador y número de recipientes.
 - Preferencias de sabor después de probar las recetas.

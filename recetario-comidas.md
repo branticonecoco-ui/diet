@@ -6,13 +6,13 @@ Este documento complementa [plan-semanal.md](plan-semanal.md) y [recetario-crema
 
 - Avena, arroz, pasta, quinoa, bulgur y cebada se pesan **en seco**.
 - Carne y pescado se pesan crudos y listos para cocinar. Las conservas y los mejillones sin concha se pesan escurridos.
-- Verduras y fruta se pueden sustituir por productos de temporada manteniendo una cantidad parecida.
+- Los ingredientes explícitamente fijados para redistribuir el domingo —alcachofa, judías verdes, guisantes, espinaca y lechuga romana— se mantienen. El resto de verduras y frutas puede sustituirse por productos de temporada en cantidades parecidas.
 - El AOVE indicado se añade preferentemente después de cocinar o al aliñar.
 - Utilizar sal yodada con moderación.
-- Skyr significa aquí yogur natural alto en proteína. Puede sustituirse por otro producto natural que aporte aproximadamente 9–11 g de proteína por 100 g. Cuando se use requesón, cottage o queso fresco batido como complemento proteico, escoger uno que aporte al menos unos 8 g por 100 g.
+- Skyr significa aquí yogur natural alto en proteína. Puede sustituirse por otro producto natural que aporte aproximadamente 9–11 g de proteína por 100 g.
 - Lino y chía se conservan enteros y se muelen en pequeñas cantidades. Una vez molidos, se guardan cerrados en la nevera.
 - Cada desayuno incluye además **250 ml de leche o bebida de soja sin azúcar enriquecida con calcio**, excepto el jueves, que ya incluye 250 ml de kéfir. En bebidas vegetales, buscar aproximadamente 120 mg de calcio por 100 ml y agitar antes de servir.
-- Para controlar sodio, priorizar caldo y legumbres sin sal o bajos en sal, enjuagar conservas cuando corresponda y comparar etiquetas de pan, queso y pescado en conserva.
+- Para controlar sodio, priorizar caldo y legumbres sin sal o bajos en sal, enjuagar conservas cuando corresponda y comparar etiquetas de pan y pescado en conserva.
 
 ## Horario orientativo
 
@@ -28,7 +28,7 @@ No hace falta cumplirlo al minuto. Si cambia la hora de levantarse, se desplazan
 
 La base es pan integral tostado, tomate triturado y AOVE. El topping proteico cambia durante la semana.
 
-Mientras quede jamón cocido, utilizar **50 g de jamón cocido** en las tostadas de lunes, miércoles, jueves y sábado en lugar del topping permanente. Elegir preferentemente un producto con un porcentaje alto de carne y conservarlo según la etiqueta. Al terminarlo, seguir la rotación indicada.
+Mientras quede jamón cocido, utilizar **50 g de jamón cocido** en las tostadas de lunes, viernes y sábado en lugar del topping permanente. Conservarlo según la etiqueta. No sustituir con jamón la sardina del miércoles ni el tofu del jueves, porque cumplen funciones nutricionales específicas. Al terminarlo, seguir la rotación indicada.
 
 ### Preparación base
 
@@ -37,7 +37,7 @@ Mientras quede jamón cocido, utilizar **50 g de jamón cocido** en las tostadas
 3. Añadir el AOVE medido.
 4. Colocar encima el topping del día.
 
-## Lunes — Bol de yogur y tostada de requesón
+## Lunes — Bol de yogur y tostada con huevo
 
 ### Ingredientes
 
@@ -51,14 +51,14 @@ Mientras quede jamón cocido, utilizar **50 g de jamón cocido** en las tostadas
 - 50 g de pan integral
 - 100 g de tomate triturado
 - 5 g de AOVE
-- 80 g de requesón o cottage
+- 1 huevo
 
 ### Preparación
 
 1. Pasar los arándanos a la nevera la noche anterior o descongelarlos brevemente en el microondas.
 2. Mezclar skyr, avena y germen de trigo.
 3. Añadir arándanos, lino y nueces justo antes de comer.
-4. Preparar la tostada base y cubrirla con el requesón o cottage.
+4. Preparar la tostada base y cubrirla con el huevo cocido, revuelto o a la plancha.
 5. Tomar la leche o bebida de soja aparte o utilizar parte para ajustar la textura del bol.
 
 ## Martes — Tostadas con huevo y aguacate
@@ -72,13 +72,14 @@ Mientras quede jamón cocido, utilizar **50 g de jamón cocido** en las tostadas
 - 5 g de AOVE
 - 70 g de aguacate
 - 125 g de yogur natural
+- 10 g de chía molida
 - 1 kiwi
 
 ### Preparación
 
 1. Cocer los huevos en el hervidor o prepararlos revueltos sin quemarlos.
 2. Preparar las tostadas y cubrirlas con aguacate y huevo.
-3. Tomar la leche o bebida de soja, el yogur y el kiwi aparte.
+3. Tomar la leche o bebida de soja y el kiwi aparte; mezclar la chía con el yogur.
 
 Los huevos cocidos pueden prepararse por adelantado y conservarse con cáscara en la nevera hasta una semana.
 
@@ -107,7 +108,7 @@ Los huevos cocidos pueden prepararse por adelantado y conservarse con cáscara e
 
 Las sardinas deben escurrirse bien antes de colocarlas sobre la tostada.
 
-## Jueves — Kéfir con avena y tostada de requesón
+## Jueves — Kéfir con avena y tostada de tofu
 
 ### Ingredientes
 
@@ -120,20 +121,20 @@ Las sardinas deben escurrirse bien antes de colocarlas sobre la tostada.
 - 50 g de pan integral
 - 100 g de tomate triturado
 - 5 g de AOVE
-- 80 g de requesón o cottage
+- 120 g de tofu cuajado con calcio
 
 ### Preparación
 
 1. Mezclar kéfir, skyr, avena y germen de trigo.
 2. Terminar con arándanos y lino; si se prepara la noche anterior tendrá una textura similar a gachas frías.
-3. Preparar la tostada base y cubrirla con el requesón o cottage.
+3. Desmenuzar el tofu, sazonarlo con pimienta, cúrcuma u orégano y calentarlo brevemente; preparar la tostada base y colocar el tofu encima.
 
-## Viernes — Tostadas de requesón y tomate
+## Viernes — Tostadas con skyr y tomate
 
 ### Ingredientes
 
 - 250 ml de leche o bebida de soja sin azúcar enriquecida con calcio
-- 150 g de requesón o cottage
+- 150 g de skyr o yogur alto en proteína
 - 80 g de pan integral
 - 150 g de tomate triturado
 - 5 g de AOVE
@@ -142,9 +143,8 @@ Las sardinas deben escurrirse bien antes de colocarlas sobre la tostada.
 
 ### Preparación
 
-1. Preparar las tostadas base y repartir encima el requesón o cottage.
-2. Sazonar con pimienta, orégano y una pequeña cantidad de sal yodada si hace falta.
-3. Tomar la leche o bebida de soja, los arándanos y las nueces como acompañamiento.
+1. Preparar las tostadas base y repartir encima el skyr, sazonado opcionalmente con pimienta, orégano o eneldo.
+2. Tomar la leche o bebida de soja, los arándanos y las nueces como acompañamiento.
 
 ## Sábado — Bol de plátano y tostada con huevo
 
@@ -170,28 +170,6 @@ Las sardinas deben escurrirse bien antes de colocarlas sobre la tostada.
 
 Si la piscina fuese poco después del desayuno, desplazar el entrenamiento o dejar al menos 60–90 minutos para evitar nadar inmediatamente después de una comida voluminosa.
 
-## Domingo — Tortilla de setas y tostadas con tomate
-
-### Ingredientes
-
-- 250 ml de leche o bebida de soja sin azúcar enriquecida con calcio
-- 2 huevos
-- 150 g de setas
-- 80 g de espinaca
-- 80 g de pan integral
-- 100 g de tomate triturado
-- 5 g de AOVE
-- 150 g de yogur natural
-- 1 naranja
-
-### Preparación
-
-1. Cocinar las setas hasta que pierdan el agua y se doren ligeramente.
-2. Añadir la espinaca y cocinar solo hasta que pierda volumen.
-3. Incorporar los huevos batidos y cuajar sin quemar.
-4. Preparar las tostadas base.
-5. Servir con la leche o bebida de soja, el yogur y la naranja.
-
 # Comidas
 
 ## Lunes — Salmón, quinoa y ensalada
@@ -200,7 +178,7 @@ Si la piscina fuese poco después del desayuno, desplazar el entrenamiento o dej
 
 - 120 g de salmón
 - 70 g de quinoa
-- 250 g de ensalada: hojas, tomate, pepino y cebolla, por ejemplo
+- 250 g de ensalada, incluyendo 100 g de corazones de alcachofa y completando con hojas, tomate, pepino o cebolla
 - 10 g de AOVE
 - Limón, eneldo y pimienta
 - 1 fruta
@@ -218,7 +196,7 @@ Si la piscina fuese poco después del desayuno, desplazar el entrenamiento o dej
 
 - 100 g de pechuga o contramuslo deshuesado de pollo
 - 90 g de arroz integral
-- 250 g de verduras variadas, por ejemplo calabacín, zanahoria y espárragos
+- 250 g de verduras variadas, incluyendo 100 g de judías verdes y completando, por ejemplo, con calabacín, zanahoria o espárragos
 - 10 g de AOVE
 - Limón, pimienta, ajo y hierbas
 - 1 naranja
@@ -276,6 +254,7 @@ La fruta puede desplazarse a antes de la piscina si hace falta.
 - 100 g de pasta integral
 - 200 g de tomate triturado
 - 100 g de espinaca
+- 100 g de guisantes cocidos
 - 10 g de AOVE
 - Ajo, perejil, pimienta y pimentón
 - 1 fruta
@@ -285,18 +264,18 @@ La fruta puede desplazarse a antes de la piscina si hace falta.
 1. Limpiar los mejillones y desechar los que estén rotos o no se cierren al golpearlos antes de cocinar.
 2. Cocinarlos al vapor hasta que se abran; desechar los que permanezcan cerrados.
 3. Cocer la pasta al dente.
-4. Calentar tomate y ajo, añadir espinaca al final e incorporar la carne de los mejillones.
+4. Calentar tomate y ajo, añadir espinaca y guisantes al final e incorporar la carne de los mejillones.
 5. Mezclar con la pasta y añadir AOVE y perejil fuera del fuego.
 
 Si se utilizan mejillones ya cocidos o en conserva, escoger una opción sencilla, escurrir y vigilar el sodio de la etiqueta.
 
-## Sábado — Sardina o caballa con patata y ensalada
+## Sábado — Sardinas con patata y ensalada
 
 ### Ingredientes
 
-- 120 g de sardina o caballa
+- 120 g de sardinas con espina, frescas o en conserva
 - 350 g de patata
-- 250 g de ensalada variada
+- 250 g de ensalada variada, incluyendo al menos 100 g de lechuga romana
 - 5 g de AOVE
 - Limón, perejil y pimienta
 - 1 fruta
@@ -304,27 +283,10 @@ Si se utilizan mejillones ya cocidos o en conserva, escoger una opción sencilla
 ### Preparación
 
 1. Cocer las patatas al vapor o en microondas.
-2. Si el pescado es fresco, cocinarlo a la plancha o al horno sin quemarlo. También se puede utilizar conserva, pesando 120 g escurridos.
+2. Si las sardinas son frescas, cocinarlas a la plancha o al horno sin quemarlas. También se puede utilizar conserva con espina, pesando 120 g escurridos.
 3. Servir con ensalada, limón y AOVE.
 
-La cantidad de aceite es menor porque sardina y caballa ya aportan una cantidad importante de grasa.
-
-## Domingo — Pollo o pavo con cebada y verduras
-
-### Ingredientes
-
-- 100 g de pollo o pavo
-- 80 g de cebada en grano o arroz integral
-- 250 g de verduras al vapor
-- 10 g de AOVE
-- Limón, ajo y hierbas
-- 1 fruta
-
-### Preparación
-
-1. Cocer la cebada hasta que quede tierna; puede requerir remojo o una cocción más larga según el producto. El arroz integral es la alternativa rápida.
-2. Cocinar el pollo o pavo hasta que el centro alcance 74 °C si se usa termómetro; cocinar las verduras hasta la textura deseada.
-3. Añadir AOVE, limón y hierbas al servir.
+La cantidad de aceite es menor porque las sardinas ya aportan una cantidad importante de grasa.
 
 # Montaje de las cenas
 
@@ -334,13 +296,12 @@ La cantidad de aceite es menor porque sardina y caballa ya aportan una cantidad 
 
 | Día | Acompañamiento de la crema |
 |---|---|
-| Lunes | 80 g de pan de centeno y 100 g de requesón o queso fresco batido |
+| Lunes | 80 g de pan de centeno integral y 150 g de skyr o yogur alto en proteína |
 | Martes | 80 g de pan integral y 100 g de skyr |
 | Miércoles | 80 g de pan integral y una fruta |
 | Jueves | 2 huevos y 60 g de pan integral |
 | Viernes | 80 g de pan integral y 100 g de skyr |
-| Sábado | 2 huevos y 60 g de pan integral |
-| Domingo | 80 g de pan integral y una fruta |
+| Sábado | 150 g de skyr o yogur alto en proteína y 60 g de pan integral |
 
 # Preparación eficiente
 
@@ -365,7 +326,7 @@ Pescado, carne y marisco se pueden comprar en porciones y congelar crudos. Desco
 - **Braun PowerBlend 9:** cremas, molido breve de semillas y, opcionalmente, salsas. No hace falta convertir los desayunos en smoothies.
 - **Kenwood FS620:** patata, verduras, pescado y ave. Colocar alimentos con tiempos compatibles o retirar cada bandeja cuando esté lista.
 - **Microondas:** patata, descongelación controlada y recalentado de cremas.
-- **Hervidor de huevos:** preparar los huevos del martes, jueves, sábado y domingo de forma anticipada.
+- **Hervidor de huevos:** preparar con antelación los huevos previstos para lunes, martes, jueves y sábado.
 - **Tostador plano:** pan integral y de centeno.
 
 No es necesario comprar más aparatos para ejecutar el plan.
