@@ -48,12 +48,12 @@ Este repositorio contiene intencionadamente algunos datos físicos y de estilo d
 
 ## Equipamiento disponible
 
-- Braun PowerBlend 9, batidora de vaso doméstica de gama alta. Se acepta triturar cada lote de crema en dos tandas; la capacidad no es un problema práctico.
-- Kenwood FS620, cocedor al vapor.
+- Braun PowerBlend 9 JB9040. La jarra tiene 3 litros físicos, pero se respetan 2 litros de capacidad útil general y 1,5 litros como máximo documentado para sopa caliente. Los lotes se trituran manualmente tras enfriamiento activo, en tantas tandas como sean necesarias sin superar unos 1,25 litros por tanda; usar tres si el volumen medido supera 2,5 litros. No se vierten ingredientes hirviendo ni se usa Hot Soup como sustituto de la cocción.
+- Kenwood FS620, cocedor al vapor de tres cestas. Pasa a utilizarse activamente en las cremas para crucíferas, hojas, calabacín y raíces. Los tiempos se cuentan desde vapor estable y el punto visual prevalece; la cesta inferior es la referencia más repetible.
 - Tostador plano para tostadas.
 - Microondas.
 - Hervidor o cocedor de huevos.
-- Cocina doméstica convencional.
+- Cocina doméstica convencional con horno, olla y sartén.
 - Está dispuesto a comprar más equipo si fuese realmente necesario, pero la versión actual no requiere ningún aparato adicional.
 
 ## Prioridad nutricional expresada por el usuario
@@ -89,7 +89,7 @@ El desayuno funciona como segundo núcleo de micronutrientes junto con las crema
 - una tostada diaria con pan integral, tomate triturado y AOVE;
 - un topping proteico rotatorio.
 
-La tostada se incorporó por petición expresa del usuario. Mientras quede jamón cocido, se emplean 50 g en las tostadas de lunes, viernes y sábado en sustitución del topping permanente. No sustituye la sardina del miércoles ni el tofu cálcico del jueves. Cuando se termine, la rotación estable utiliza huevo, sardinas con espina, tofu cuajado con calcio y skyr.
+La tostada se incorporó por petición expresa del usuario. Mientras quede jamón cocido, se emplean 50 g en las tostadas de lunes, viernes y sábado: sustituye al huevo de lunes y sábado y a los 150 g de skyr del viernes, que ese día no se toman aparte. No sustituye la sardina del miércoles ni el tofu cálcico del jueves. Cuando se termine, la rotación estable utiliza huevo, sardinas con espina, tofu cuajado con calcio y skyr.
 
 El jamón cocido no se considera prohibido; simplemente no se eligió como opción diaria permanente por ser carne procesada y por su sodio. Las sardinas refuerzan B12, EPA/DHA, vitamina D y calcio cuando se consume la espina. El tofu del jueves recupera parte del calcio y proteína que antes dependían de alimentos retirados y de la antigua cena del domingo.
 
@@ -97,7 +97,7 @@ El jamón cocido no se considera prohibido; simplemente no se eligió como opci�
 
 La comida aporta una proteína principal y una fuente de energía:
 
-- pescado azul tres veces: salmón el lunes y sardinas con espina miércoles y sábado;
+- pescado azul tres veces en el conjunto semanal: salmón en la comida del lunes, sardinas con espina en el desayuno del miércoles y sardinas con espina en la comida del sábado;
 - mejillones una vez;
 - ave varias veces;
 - ternera magra una vez;
@@ -106,7 +106,7 @@ La comida aporta una proteína principal y una fuente de energía:
 
 ### Cena
 
-La cena de lunes a sábado se organiza alrededor de una de las seis cremas programadas y sus toppings específicos. Las cremas incluyen legumbres, tofu o edamame y no son simples purés de verdura. Se acompañan con pan, huevo, yogur o fruta según el día. El domingo no tiene cena prescrita.
+La cena de lunes a sábado se organiza alrededor de una de las seis cremas programadas y sus toppings específicos. Las cremas incluyen legumbres, tofu o edamame y no son simples purés de verdura. Se acompañan con pan, huevo, yogur o fruta según el día. El martes y sábado añaden 20 g de pimiento fresco; el miércoles, 30 g de berros frescos; y el viernes, 20 g de rúcula fresca. Estas cantidades se compran la semana de consumo y no se congelan dentro del lote. El domingo no tiene cena prescrita.
 
 ## Motivo de las seis cremas programadas
 
@@ -121,32 +121,35 @@ La rotación de lunes a sábado busca diversidad de familias y colores en lugar 
 
 La receta verde de judías, brócoli, alcachofa, guisantes y tofu se mantiene en el recetario como alternativa opcional, pero no se asigna al domingo ni forma parte de los lotes regulares.
 
-Las técnicas culinarias se eligieron para favorecer la conservación o accesibilidad de nutrientes:
+Las técnicas culinarias se eligieron para equilibrar conservación, accesibilidad, digestibilidad, seguridad y sabor; ningún método maximiza todos los nutrientes a la vez:
 
-- cortar y dejar reposar crucíferas antes del calor;
-- utilizar mostaza, berros o rúcula como fuentes de mirosinasa;
-- machacar y reposar el ajo antes de calentarlo;
-- cocinar tomate para hacer más accesible el licopeno;
-- añadir hojas delicadas al final;
-- combinar carotenoides con AOVE o semillas;
-- combinar hierro vegetal con vitamina C;
-- conservar el líquido de cocción;
+- usar vapor breve en la Kenwood para crucíferas, hojas, calabacín y raíces, con cortes, tiempos y punto final definidos por ingrediente;
+- utilizar horno moderado para tomate, berenjena, cebolla y parte del pimiento, evitando carbonizar;
+- cocinar setas completamente en sartén y en tandas; si son shiitake, aplicar al menos 20 minutos totales o el tiempo superior del envase;
+- mantener la olla para aromáticos, legumbres ya cocidas y las judías verdes, que en la receta opcional hierven al menos 10 minutos;
+- cortar y dejar reposar crucíferas unos 20–30 minutos antes del calor como optimización práctica, no como umbral clínicamente demostrado;
+- machacar el ajo y dejarlo reposar unos 10 minutos antes de incorporarlo fuera del fuego, reconociendo que ese tiempo tampoco es un umbral humano validado;
+- cocinar tomate y zanahoria para hacer más accesibles licopeno y carotenoides y combinarlos con AOVE, tahini, semillas o frutos secos al servir;
+- añadir mostaza, berros, rúcula, pimiento y otras fracciones sensibles después de recalentar y cuando la crema ya no hierva;
+- combinar hierro vegetal con cítricos;
+- conservar el líquido utilizado en la olla, pero no el agua del depósito de la vaporera;
 - añadir toppings sensibles después de recalentar.
 
-Estas técnicas pueden contribuir, pero no deben presentarse como garantía de una cantidad clínica concreta de compuestos bioactivos.
+El recetario cuantifica cortes, equipos, tiempos, temperaturas útiles y criterios visuales, pero los tiempos son puntos de partida: carga, tamaño, aparato y producto cambian el resultado. La fase piloto debe registrar tiempos y líquido reales. Estas técnicas pueden contribuir, pero no deben presentarse como garantía de una cantidad clínica concreta de compuestos bioactivos.
 
-## Lotes, congelación y Braun
+## Lotes, congelación, Braun y servicio fresco
 
-- Cada receta completa se divide en cinco porciones iguales por peso, normalmente próximas a 500 ml.
+- Cada receta completa se divide en cinco porciones iguales por peso, normalmente próximas a 500 ml antes de los complementos frescos.
 - No se fuerza un volumen final exacto porque la evaporación y densidad cambian entre lotes.
 - Se consume una porción y se congelan cuatro.
 - Las seis recetas programadas producen 30 porciones: cinco semanas completas de cenas de lunes a sábado.
-- Antes de producir los seis lotes se deben probar una o dos recetas a media escala para comprobar sabor, textura, tolerancia digestiva y espacio de congelador.
+- Antes de producir los seis lotes se deben probar una o dos recetas a media escala, dividiendo cada media receta en cinco medias porciones, para comprobar sabor, textura, tiempos reales, tolerancia digestiva y espacio de congelador.
 - La producción completa requiere 24 recipientes y alrededor de 12 litros de capacidad de congelación al finalizar la primera semana.
 - La séptima receta verde es opcional y no se prepara como parte del ciclo regular.
-- Cada lote se tritura en dos tandas con la Braun.
-- Las porciones deben enfriarse rápidamente en recipientes bajos, etiquetarse y congelarse.
-- AOVE, semillas, frutos secos, cítricos, hierbas y mostaza se añaden después del recalentado, no antes de congelar.
+- Cada componente cocinado se pasa a un recipiente bajo y se enfría activamente mediante baño de hielo y refrigeración inmediata, sin esperar sobre la encimera. Se tritura únicamente por debajo del máximo admitido por el manual regional —o completamente frío si existe duda—, en tantas tandas de unos 1,25 litros como sean necesarias y sin usar Hot Soup.
+- La porción del día se recalienta después de triturar hasta 74 °C. Las otras cuatro se refrigeran de inmediato y se congelan cuando estén frías; frigorífico a 4 °C o menos y congelador a −18 °C o menos.
+- Pimiento fresco, berros, rúcula, romana opcional, AOVE, semillas, frutos secos, cítricos, hierbas y mostaza se añaden después del recalentado, cuando la crema deje de hervir; no se congelan dentro de la base.
+- Las fracciones frescas se compran cada semana: 20 g de pimiento el martes y sábado, 30 g de berros el miércoles y 20 g de rúcula el viernes. La crema opcional requiere 30 g de romana por ración.
 
 ## Domingo libre y redistribución nutricional
 
@@ -154,7 +157,7 @@ El domingo se considera día libre familiar y su alimentación no se utiliza par
 
 Para evitar que los nutrientes estratégicos dependan del domingo, se añadieron expresamente estos alimentos de lunes a sábado:
 
-- un huevo el lunes y skyr el viernes y sábado, manteniendo seis huevos planificados en total entre lunes y sábado;
+- un huevo el lunes y skyr el viernes y sábado en la rotación estable posterior al jamón, manteniendo seis huevos planificados entre lunes y sábado; durante la sustitución temporal por jamón quedan cuatro huevos planificados;
 - tofu cuajado con calcio en la tostada del jueves;
 - chía en el yogur del martes;
 - alcachofa en la ensalada del lunes;
@@ -189,7 +192,7 @@ Una reconstrucción con tablas genéricas y una quinta parte de cada crema sugie
 - fibra alta todos los días, no solo ocasionalmente;
 - calcio probablemente sólido si la bebida enriquecida aporta unos 120 mg/100 ml, el tofu está cuajado con calcio y se consumen sardinas con espina;
 - B12 y EPA/DHA distribuidos de forma desigual por día, pero reforzados semanalmente por salmón, sardinas y mejillones;
-- colina reforzada mediante seis huevos planificados, soja, pescado y legumbres.
+- colina reforzada mediante seis huevos planificados en la rotación estable posterior al jamón —cuatro durante la sustitución temporal—, además de soja, pescado y legumbres.
 
 Estas conclusiones son estimaciones, no coberturas exactas. Para cuantificar se necesitarán marcas, etiquetas, tipo de sardina, composición del tofu y peso real de las porciones de crema.
 
@@ -257,6 +260,8 @@ Si el peso baja de manera continua sin buscarlo, aumentar energía en bloques mo
 - Analíticas, estado de vitamina D y exposición solar.
 - Capacidad real del congelador y número de recipientes.
 - Preferencias de sabor después de probar las recetas.
+- Tiempos reales de vapor, horno y sartén con los cortes y cargas de la fase piloto.
+- Variante regional y límites exactos del manual entregado con la Braun concreta; si difiere del recetario, prevalece el manual.
 - Respuesta digestiva al volumen y fibra del plan.
 
 ## Archivos de trabajo que deben revisarse juntos

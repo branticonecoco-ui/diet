@@ -28,7 +28,7 @@ No hace falta cumplirlo al minuto. Si cambia la hora de levantarse, se desplazan
 
 La base es pan integral tostado, tomate triturado y AOVE. El topping proteico cambia durante la semana.
 
-Mientras quede jamón cocido, utilizar **50 g de jamón cocido** en las tostadas de lunes, viernes y sábado en lugar del topping permanente. Conservarlo según la etiqueta. No sustituir con jamón la sardina del miércoles ni el tofu del jueves, porque cumplen funciones nutricionales específicas. Al terminarlo, seguir la rotación indicada.
+Mientras quede jamón cocido, utilizar **50 g de jamón cocido** en las tostadas de lunes, viernes y sábado. El lunes y sábado sustituye al huevo de la tostada; el viernes sustituye a los 150 g de skyr y estos no se toman aparte. Conservarlo según la etiqueta. No sustituir con jamón la sardina del miércoles ni el tofu del jueves, porque cumplen funciones nutricionales específicas. Al terminarlo, seguir la rotación indicada.
 
 ### Preparación base
 
@@ -117,17 +117,17 @@ Las sardinas deben escurrirse bien antes de colocarlas sobre la tostada.
 - 40 g de avena
 - 100 g de arándanos
 - 15 g de germen de trigo
-- 10 g de lino molido
+- 10 g de lino recién molido
 - 50 g de pan integral
 - 100 g de tomate triturado
 - 5 g de AOVE
-- 120 g de tofu cuajado con calcio
+- 120 g de tofu cuajado con calcio; usar directamente solo si la etiqueta indica listo para consumir
 
 ### Preparación
 
 1. Mezclar kéfir, skyr, avena y germen de trigo.
 2. Terminar con arándanos y lino; si se prepara la noche anterior tendrá una textura similar a gachas frías.
-3. Desmenuzar el tofu, sazonarlo con pimienta, cúrcuma u orégano y calentarlo brevemente; preparar la tostada base y colocar el tofu encima.
+3. Comprobar la etiqueta del tofu. Si indica que está listo para consumir, desmenuzarlo y calentarlo brevemente; si no, cocinarlo primero según las instrucciones del envase. Sazonarlo con pimienta, cúrcuma u orégano, preparar la tostada base y colocarlo encima.
 
 ## Viernes — Tostadas con skyr y tomate
 
@@ -204,7 +204,7 @@ Si la piscina fuese poco después del desayuno, desplazar el entrenamiento o dej
 ### Preparación
 
 1. Cocer el arroz según el envase.
-2. Cocinar las verduras en el Kenwood al vapor hasta que estén tiernas pero no deshechas.
+2. Hervir los 100 g de judías verdes en agua durante al menos 10 minutos, hasta que estén completamente cocinadas. Cocinar el resto de verduras en el Kenwood al vapor hasta que estén tiernas pero no deshechas.
 3. Cocinar completamente el pollo al vapor o a la plancha; si se usa termómetro, el centro debe alcanzar 74 °C.
 4. Añadir AOVE y limón después de cocinar.
 
@@ -291,8 +291,9 @@ La cantidad de aceite es menor porque las sardinas ya aportan una cantidad impor
 # Montaje de las cenas
 
 1. Descongelar y recalentar una porción de la crema asignada, normalmente cercana a 500 ml, siguiendo [recetario-cremas.md](recetario-cremas.md).
-2. Añadir los toppings específicos solo después de recalentar.
-3. Incorporar el acompañamiento del día:
+2. Alcanzar 74 °C en toda la ración, dejar que pare el hervor y añadir entonces los toppings específicos del planning.
+3. Comprar semanalmente las fracciones que no se congelan con la base: 20 g de pimiento fresco el martes y sábado, 30 g de berros el miércoles y 20 g de rúcula el viernes.
+4. Incorporar el acompañamiento del día:
 
 | Día | Acompañamiento de la crema |
 |---|---|
@@ -323,8 +324,10 @@ Pescado, carne y marisco se pueden comprar en porciones y congelar crudos. Desco
 
 # Uso del equipamiento
 
-- **Braun PowerBlend 9:** cremas, molido breve de semillas y, opcionalmente, salsas. No hace falta convertir los desayunos en smoothies.
-- **Kenwood FS620:** patata, verduras, pescado y ave. Colocar alimentos con tiempos compatibles o retirar cada bandeja cuando esté lista.
+- **Braun PowerBlend 9:** cremas enfriadas activamente, en tantas tandas como sean necesarias sin superar unos 1,25 litros por tanda; usar tres si el volumen medido supera 2,5 litros y no verter líquidos calientes. También sirve para molido breve de semillas y, opcionalmente, salsas. No usar Hot Soup para cocinar ingredientes ni hace falta convertir los desayunos en smoothies.
+- **Kenwood FS620:** vapor breve de las verduras indicadas en el recetario de cremas, además de patata, otras verduras, pescado y ave. Para tiempos repetibles, usar preferentemente la cesta inferior y retirar cada alimento en su punto; si se apilan niveles, los superiores pueden tardar más.
+- **Olla:** aromáticos, legumbres ya cocidas y hervor mínimo de 10 minutos para judías verdes.
+- **Horno y sartén:** tomate, berenjena, pimiento, cebolla y setas cuando lo indique cada receta; evitar quemar o carbonizar.
 - **Microondas:** patata, descongelación controlada y recalentado de cremas.
 - **Hervidor de huevos:** preparar con antelación los huevos previstos para lunes, martes, jueves y sábado.
 - **Tostador plano:** pan integral y de centeno.

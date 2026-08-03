@@ -9,7 +9,7 @@
 ## Todos los desayunos de lunes a sábado
 
 - 250 ml de leche o bebida de soja sin azúcar enriquecida con calcio, excepto el jueves.
-- Mientras quede jamón cocido: usar 50 g en las tostadas de lunes, viernes y sábado en lugar del topping indicado.
+- Mientras quede jamón cocido: usar 50 g en las tostadas de lunes, viernes y sábado. El lunes y sábado sustituye al huevo; el viernes sustituye a los 150 g de skyr, que ese día no se toman aparte. Al terminar el jamón, seguir los toppings indicados.
 
 ## Lunes
 
@@ -19,7 +19,7 @@
 - 40 g de avena
 - 100 g de arándanos
 - 15 g de germen de trigo
-- 10 g de lino molido
+- 10 g de lino recién molido
 - 10 g de nueces
 - Tostada: 50 g de pan integral, 100 g de tomate triturado, 5 g de AOVE y 1 huevo
 
@@ -35,8 +35,10 @@
 
 - 1 porción de crema crucífera verde-morada con alubia
 - 10 g de AOVE
-- 10 g de lino molido
-- Limón, perejil y una pizca de mostaza en polvo
+- 10 g de lino recién molido
+- 15–20 ml de zumo de limón
+- 5 g de perejil fresco
+- 0,5–1 g de mostaza en polvo
 - 80 g de pan de centeno integral
 - 150 g de skyr o yogur alto en proteína
 
@@ -52,16 +54,18 @@
 
 - 100 g de pollo
 - 90 g de arroz integral en seco
-- 250 g de verduras al vapor, incluyendo 100 g de judías verdes
+- 250 g de verduras: 100 g de judías verdes para hervir y 150 g de otras verduras al vapor
 - 10 g de AOVE
 - 1 naranja
 
 ### Cena
 
 - 1 porción de crema roja-naranja mediterránea con garbanzo
+- 20 g de pimiento rojo fresco
 - 10 g de AOVE
 - 10 g de tahini integral
-- Vinagre de Jerez y albahaca
+- 10 ml de vinagre de Jerez
+- 5 g de albahaca fresca
 - 80 g de pan integral
 - 100 g de skyr o yogur alto en proteína
 
@@ -88,9 +92,12 @@
 ### Cena
 
 - 1 porción de crema verde hiperproteica con edamame y tofu
+- 30 g de berros frescos
 - 15 g de semillas de cáñamo
 - 5 g de AOVE
-- Limón, menta o cilantro y pimienta negra
+- 15 ml de zumo de limón
+- 5 g de menta o cilantro fresco
+- 0,5 g de pimienta negra
 - 80 g de pan integral
 - 1 fruta
 
@@ -103,7 +110,7 @@
 - 40 g de avena
 - 100 g de arándanos
 - 15 g de germen de trigo
-- 10 g de lino molido
+- 10 g de lino recién molido
 - Tostada: 50 g de pan integral, 100 g de tomate triturado, 5 g de AOVE y 120 g de tofu cuajado con calcio
 
 ### Comida
@@ -119,7 +126,8 @@
 - 1 porción de crema naranja con lenteja y setas UV
 - 15 g de semillas de calabaza trituradas
 - 5 g de AOVE
-- Limón o lima y cilantro
+- 15 ml de zumo de limón o lima
+- 5 g de cilantro fresco
 - 2 huevos
 - 60 g de pan integral
 
@@ -145,9 +153,11 @@
 ### Cena
 
 - 1 porción de crema blanca, allium y setas con cannellini
+- 20 g de rúcula fresca
 - 15 g de semillas de girasol trituradas
 - 5 g de AOVE
-- Limón y tomillo
+- 15 ml de zumo de limón
+- 2 g de tomillo fresco
 - 80 g de pan integral
 - 100 g de skyr o yogur alto en proteína
 
@@ -173,9 +183,11 @@
 ### Cena
 
 - 1 porción de crema púrpura-roja con alubia negra
+- 20 g de pimiento rojo fresco
 - 15 g de nueces trituradas
 - 5 g de AOVE
-- Naranja o lima y cilantro o perejil
+- 15–20 ml de zumo de naranja o lima
+- 5 g de cilantro o perejil fresco
 - 150 g de skyr o yogur alto en proteína
 - 60 g de pan integral
 
