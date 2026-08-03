@@ -8,6 +8,8 @@ Los tiempos son rangos iniciales para los cortes indicados. Mandan el punto visu
 
 Cada receta completa produce **cinco porciones iguales por peso**, normalmente cercanas a 500 ml antes de los complementos. Se consume una porción y se congelan cuatro. La receta opcional no forma parte de la rotación regular.
 
+Las cantidades para comprar por receta, el consolidado de los seis lotes regulares y la compra fresca semanal están en [lista-compra-cremas.md](lista-compra-cremas.md).
+
 ## Convenciones de pesado y compra
 
 - Verduras: peso crudo, limpio y listo para cocinar, salvo que se indique otro estado.

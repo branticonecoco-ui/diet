@@ -269,3 +269,4 @@ Si el peso baja de manera continua sin buscarlo, aumentar energía en bloques mo
 - Planning imprimible: #[[file:../../plan-semanal.md]]
 - Recetario de desayunos y comidas: #[[file:../../recetario-comidas.md]]
 - Recetario de cremas: #[[file:../../recetario-cremas.md]]
+- Lista de compra de las cremas: #[[file:../../lista-compra-cremas.md]]
