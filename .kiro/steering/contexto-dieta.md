@@ -151,6 +151,16 @@ El recetario cuantifica cortes, equipos, tiempos, temperaturas útiles y criteri
 - Pimiento fresco, berros, rúcula, romana opcional, AOVE, semillas, frutos secos, cítricos, hierbas y mostaza se añaden después del recalentado, cuando la crema deje de hervir; no se congelan dentro de la base.
 - Las fracciones frescas se compran cada semana: 20 g de pimiento el martes y sábado, 30 g de berros el miércoles y 20 g de rúcula el viernes. La crema opcional requiere 30 g de romana por ración.
 
+### Alternativas verificadas por disponibilidad en supermercado
+
+Las recetas publicadas conservan sus ingredientes originales como opción predeterminada. Cuando no estén disponibles, se aceptan estas sustituciones sin sumar original y alternativa:
+
+- Kale por nabizas al mismo peso útil: 150 g en la crema del lunes y 200 g en la del miércoles. Preferir hojas y tallos tiernos; si se usan solo hojas, vapor 3–4 minutos desde vapor estable. En el consolidado, kale más nabizas deben sumar 350 g.
+- Los 30 g de berros frescos del miércoles por 30 g de rúcula fresca, añadida sin cocción después de recalentar. Si se elige esta alternativa, la compra semanal de rúcula suma 50 g: 30 g para el miércoles y los 20 g originales del viernes.
+- Los 15 g de semillas de cáñamo del miércoles por 15 g de nueces picadas por servicio, añadidas sin calentar. Para los cinco servicios, comprar 75 g de nueces en lugar del cáñamo; al añadir los 75 g originales del sábado, el total almacenables de nueces es 150 g.
+
+Las nueces no son una equivalencia nutricional exacta del cáñamo y aportan menos proteína. La sustitución no aumenta las cantidades originales de tofu, edamame o guisantes. Remolacha, cebolleta, chía, salvado de trigo y tofu adicional fueron opciones consideradas pero no usadas y no deben documentarse como sustitutos de estas tres alternativas.
+
 ## Domingo libre y redistribución nutricional
 
 El domingo se considera día libre familiar y su alimentación no se utiliza para garantizar la cobertura semanal. No significa ayuno, atracón obligatorio ni compensación restrictiva el lunes; simplemente no hay menú prescrito porque normalmente come en casa de sus padres.

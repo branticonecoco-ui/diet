@@ -92,8 +92,8 @@
 ### Cena
 
 - 1 porción de crema verde hiperproteica con edamame y tofu
-- 30 g de berros frescos
-- 15 g de semillas de cáñamo
+- 30 g de berros frescos —si no hay, 30 g de rúcula fresca—
+- 15 g de semillas de cáñamo —si no hay, 15 g de nueces picadas; las nueces no son una equivalencia nutricional exacta del cáñamo—
 - 5 g de AOVE
 - 15 ml de zumo de limón
 - 5 g de menta o cilantro fresco

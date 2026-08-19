@@ -8,6 +8,7 @@ Esta lista corresponde a las recetas de [recetario-cremas.md](recetario-cremas.m
 - Legumbres, lentejas, guisantes y edamame se indican ya **cocidos y escurridos**. Calcular el número de botes mediante el peso escurrido de su etiqueta.
 - Los complementos secos y el AOVE pueden comprarse para los cinco servicios.
 - Pimiento fresco, berros, rúcula, romana, hierbas y cítricos se compran preferentemente en la semana de cada servicio; no se congelan dentro de la crema.
+- Las alternativas indicadas se compran **en lugar del ingrediente original**, no además de él. Si se combinan ambos, sus pesos deben sumar la cantidad prescrita.
 - Si se preparan todos los lotes regulares, primero debe hacerse la fase piloto indicada en el recetario. No comprar las hojas frescas de cinco semanas de una sola vez.
 
 ---
@@ -19,6 +20,7 @@ Esta lista corresponde a las recetas de [recetario-cremas.md](recetario-cremas.m
 - [ ] 450 g de brócoli
 - [ ] 300 g de col lombarda
 - [ ] 150 g de kale
+  - Alternativa si no hay kale: 150 g de nabizas de peso útil, preferentemente hojas y tallos tiernos; no comprar ambos salvo que sumen 150 g.
 - [ ] 350 g de calabacín con piel
 - [ ] 250 g de puerro
 - [ ] 150 g de cebolla
@@ -82,6 +84,7 @@ Total teórico para los cinco servicios: 100 g de pimiento fresco y 25 g de alba
 
 - [ ] 300 g de brócoli
 - [ ] 200 g de kale
+  - Alternativa si no hay kale: 200 g de nabizas de peso útil, preferentemente hojas y tallos tiernos; no comprar ambos salvo que sumen 200 g.
 - [ ] 350 g de guisantes completamente cocidos y escurridos
 - [ ] 300 g de calabacín
 - [ ] 200 g de puerro
@@ -97,16 +100,18 @@ Comprobar que el tofu contenga una sal de calcio. Si no está etiquetado como li
 Se pueden comprar de una vez:
 
 - [ ] 75 g de semillas de cáñamo —15 g por ración—
+  - Alternativa si no hay cáñamo: 75 g de nueces para picar —15 g por ración—; no es una equivalencia nutricional exacta.
 - [ ] 25 g de AOVE —5 g por ración—
 - [ ] 2,5 g de pimienta negra —0,5 g por ración—
 
 Comprar fresco para cada servicio:
 
 - [ ] 30 g de berros frescos
+  - Alternativa si no hay berros: 30 g de rúcula fresca por servicio.
 - [ ] 15 ml de zumo de limón
 - [ ] 5 g de menta o cilantro fresco
 
-Total teórico para los cinco servicios: 150 g de berros, 75 ml de limón y 25 g de hierbas. Comprarlos por ración semanal.
+Total teórico para los cinco servicios: 150 g de berros —o 150 g de rúcula si se usa la alternativa en todos—, 75 ml de limón y 25 g de hierbas. Comprarlos por ración semanal.
 
 ---
 
@@ -255,6 +260,7 @@ Este consolidado permite preparar una vez cada crema de lunes a sábado: **30 ra
 - [ ] 750 g de brócoli
 - [ ] 500 g de col lombarda
 - [ ] 350 g de kale
+  - Alternativa completa: 350 g de nabizas de peso útil —150 g para el lunes y 200 g para el miércoles—. También se puede combinar kale y nabizas siempre que sumen 350 g y se respete el reparto por receta.
 - [ ] 950 g de calabacín
 - [ ] 800 g de puerro
 - [ ] 700 g de cebolla
@@ -302,9 +308,11 @@ Este consolidado permite preparar una vez cada crema de lunes a sábado: **30 ra
 - [ ] 50 g de tahini integral
 - [ ] 50 ml de vinagre de Jerez
 - [ ] 75 g de semillas de cáñamo
+  - Si se sustituyen los cinco servicios del miércoles: comprar 75 g adicionales de nueces en lugar del cáñamo.
 - [ ] 75 g de semillas de calabaza
 - [ ] 75 g de semillas de girasol
 - [ ] 75 g de nueces
+  - Total de nueces si también sustituyen todo el cáñamo del miércoles: 150 g —75 g para el miércoles y 75 g originales para el sábado—.
 - [ ] 2,5 g de pimienta negra para el servicio del miércoles
 
 ## Compra fresca para una semana de seis servicios
@@ -312,8 +320,9 @@ Este consolidado permite preparar una vez cada crema de lunes a sábado: **30 ra
 Repetir esta compra cada semana mientras se consumen los lotes. Las opciones con «o» dependen de la elección hecha al servir.
 
 - [ ] 40 g de pimiento rojo fresco —20 g martes y 20 g sábado—
-- [ ] 30 g de berros
-- [ ] 20 g de rúcula
+- [ ] 30 g de berros para el miércoles; si no hay, sustituirlos por 30 g de rúcula
+- [ ] 20 g de rúcula para el viernes
+  - Si el miércoles también usa rúcula: comprar 50 g de rúcula en total esa semana —30 g miércoles y 20 g viernes— y no comprar berros.
 - [ ] 15–20 ml de zumo de limón para el lunes
 - [ ] 5 g de perejil para el lunes
 - [ ] 5 g de albahaca para el martes

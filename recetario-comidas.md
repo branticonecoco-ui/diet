@@ -292,8 +292,9 @@ La cantidad de aceite es menor porque las sardinas ya aportan una cantidad impor
 
 1. Descongelar y recalentar una porción de la crema asignada, normalmente cercana a 500 ml, siguiendo [recetario-cremas.md](recetario-cremas.md).
 2. Alcanzar 74 °C en toda la ración, dejar que pare el hervor y añadir entonces los toppings específicos del planning.
-3. Comprar semanalmente las fracciones que no se congelan con la base: 20 g de pimiento fresco el martes y sábado, 30 g de berros el miércoles y 20 g de rúcula el viernes.
-4. Incorporar el acompañamiento del día:
+3. Comprar semanalmente las fracciones que no se congelan con la base: 20 g de pimiento fresco el martes y sábado; 30 g de berros —o 30 g de rúcula si no hay berros— el miércoles; y 20 g de rúcula el viernes. Si el miércoles usa la alternativa, la compra semanal de rúcula suma 50 g.
+4. El miércoles, después de recalentar y dejar que pare el hervor, añadir la hoja elegida y 15 g de semillas de cáñamo o, si no hay, 15 g de nueces picadas. Las nueces no son una equivalencia nutricional exacta del cáñamo.
+5. Incorporar el acompañamiento del día:
 
 | Día | Acompañamiento de la crema |
 |---|---|

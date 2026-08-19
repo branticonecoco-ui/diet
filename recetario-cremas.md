@@ -89,6 +89,7 @@ Estos rangos se han elegido para piezas pequeñas y conservación nutricional; s
 | Brócoli, floretes de 3 cm y tallo tierno en láminas de 5 mm | 4–6 min | Verde vivo; cuchillo entra con resistencia ligera |
 | Coliflor, floretes de 3 cm | 6–8 min | Tierna pero firme; sin olor intenso ni textura pastosa |
 | Kale sin tallo grueso, tiras de 2–3 cm | 3–4 min | Marchito y verde vivo |
+| Nabizas, hojas en tiras de 2–3 cm | 3–4 min | Marchitas, tiernas y verdes; los tallos gruesos requieren más tiempo |
 | Lombarda, tiras de 8–10 mm | 5–7 min | Flexible pero con algo de mordida |
 | Calabacín con piel, medias lunas de 2 cm | 5–7 min | Centro tierno, sin deshacerse |
 | Zanahoria, rodajas de 8–10 mm | 8–12 min | Cuchillo entra con resistencia ligera |
@@ -112,6 +113,11 @@ Estos rangos se han elegido para piezas pequeñas y conservación nutricional; s
 - 15 g de ajo
 - 500 ml de agua o caldo inicialmente
 
+### Alternativa de supermercado —sin cambiar la receta original—
+
+- Si no hay kale, sustituir sus 150 g por **150 g de nabizas de peso útil**, preferentemente hojas y tallos tiernos. Si se usan solo hojas, cocinarlas al vapor 3–4 minutos desde vapor estable.
+- Kale y nabizas no se suman: entre ambos deben aportar 150 g en este lote.
+
 ### Para cada ración al servir
 
 - 10 g de AOVE
@@ -127,6 +133,7 @@ Estos rangos se han elegido para piezas pequeñas y conservación nutricional; s
 | Brócoli | Floretes de 3 cm; reposo 20–30 min | Kenwood, cesta 1 | 4–6 min; verde vivo y firme-tierno |
 | Lombarda | Tiras de 8–10 mm; reposo 20–30 min | Kenwood, cesta 1 | 5–7 min; flexible, no blanda |
 | Kale | Sin tallo grueso, tiras de 2–3 cm; reposo 20–30 min | Kenwood, cesta 1 | 3–4 min; marchito y verde |
+| Nabizas, si sustituyen al kale | Preferentemente hojas y tallos tiernos; hojas en tiras de 2–3 cm; reposo 20–30 min | Kenwood, cesta 1 | Hojas solas: 3–4 min; marchitas, tiernas y verdes; ampliar solo para tallos más gruesos |
 | Calabacín | Medias lunas de 2 cm | Kenwood, cesta 1 | 5–7 min; tierno, no acuoso |
 | Puerro y cebolla | Rodajas/tiras de 1 cm | Olla tapada | 8–10 min a hervor suave con 150 ml de líquido; transparentes, sin dorar |
 | Alubias | Ya cocidas y enjuagadas | Olla | 3–5 min con parte del líquido; bien calientes |
@@ -137,7 +144,7 @@ Estos rangos se han elegido para piezas pequeñas y conservación nutricional; s
 
 1. Preparar y dejar reposar las crucíferas; machacar el ajo.
 2. Cocinar puerro y cebolla tapados con 150 ml de agua o caldo.
-3. Cocinar al vapor lombarda, calabacín, brócoli y kale, retirando cada tanda en su punto.
+3. Cocinar al vapor lombarda, calabacín, brócoli y kale —o las nabizas elegidas como alternativa—, retirando cada tanda en su punto.
 4. Añadir alubias y el líquido restante a la olla durante 3–5 minutos. Apagar e incorporar el ajo reposado.
 5. Enfriar rápidamente olla y verduras al vapor; triturar siguiendo el método común.
 6. Al servir, recalentar a 74 °C, dejar bajar a temperatura de consumo y añadir AOVE, lino, limón, perejil y mostaza.
@@ -222,6 +229,14 @@ El tomate cocinado y triturado ofrece una matriz de licopeno más accesible; el 
 - 15 g de ajo
 - 450 ml de agua o caldo inicialmente
 
+### Alternativas verificadas de supermercado —sin cambiar la receta original—
+
+- Si no hay kale, sustituir sus 200 g por **200 g de nabizas de peso útil**, preferentemente hojas y tallos tiernos. Si se usan solo hojas, cocinarlas al vapor 3–4 minutos desde vapor estable.
+- Si no hay berros, sustituir los 30 g de cada servicio por **30 g de rúcula fresca**, añadida en el mismo momento y sin cocción.
+- Si no hay semillas de cáñamo, sustituir sus 15 g por **15 g de nueces picadas** por servicio, añadidas sin calentar.
+- No sumar original y alternativa: kale más nabizas deben aportar 200 g; berros más rúcula, 30 g; y cáñamo más nueces, 15 g por servicio.
+- Las nueces no son una equivalencia nutricional exacta del cáñamo y aportan menos proteína. No se aumentan por ello el tofu, el edamame ni los guisantes: la base original conserva sus cantidades.
+
 ### Reserva fresca total teórica para los 5 servicios — no comprar de una vez ni congelar
 
 - 150 g de berros frescos en total: comprar 30 g para cada ración semanal
@@ -241,6 +256,7 @@ El tomate cocinado y triturado ofrece una matriz de licopeno más accesible; el 
 |---|---|---|---|
 | Brócoli | Floretes de 3 cm; reposo 20–30 min | Kenwood, cesta 1 | 4–6 min; verde vivo y firme-tierno |
 | Kale | Sin tallo grueso, tiras de 2–3 cm; reposo 20–30 min | Kenwood, cesta 1 | 3–4 min; marchito y verde |
+| Nabizas, si sustituyen al kale | Preferentemente hojas y tallos tiernos; hojas en tiras de 2–3 cm; reposo 20–30 min | Kenwood, cesta 1 | Hojas solas: 3–4 min; marchitas, tiernas y verdes; ampliar solo para tallos más gruesos |
 | Calabacín | Medias lunas de 2 cm | Kenwood, cesta 1 | 5–7 min; tierno |
 | Puerro | Rodajas de 1 cm | Olla tapada | 8–10 min a hervor suave con 150 ml de líquido |
 | Guisantes | Completamente cocidos según el envase | Olla | Calentar 3–5 min; bien calientes |
@@ -248,20 +264,20 @@ El tomate cocinado y triturado ofrece una matriz de licopeno más accesible; el 
 | Tofu | Escurrido, dados de 3 cm; solo si la etiqueta indica listo para consumir | Sin cocción adicional | Incorporar frío al triturar; si no está listo para consumir, cocinarlo previamente según el envase |
 | Ajo | Machacado y reposado unos 10 min | Fuera del fuego | Añadir al apagar la olla; mezclar 1 min |
 | Agua o caldo | Frío y bajo en sal | Olla y Braun | Usar 150 ml con el puerro, el resto con guisantes y edamame, y ajustar en incrementos de 50 ml |
-| Berros | Hojas frescas | Sin cocción | Añadir 30 g después de recalentar cada ración |
+| Berros o rúcula, si se usa la alternativa | Hojas frescas | Sin cocción | Añadir 30 g después de recalentar cada ración |
 
 ### Secuencia
 
-1. Confirmar que edamame y guisantes estén completamente cocidos según sus envases. Preparar brócoli y kale y machacar el ajo.
+1. Confirmar que edamame y guisantes estén completamente cocidos según sus envases. Preparar brócoli y kale —o las nabizas elegidas como alternativa— y machacar el ajo.
 2. Cocinar el puerro tapado con 150 ml de líquido.
-3. Cocinar al vapor calabacín, brócoli y kale en tandas cortas.
+3. Cocinar al vapor calabacín, brócoli y kale —o nabizas— en tandas cortas.
 4. Calentar guisantes y edamame con el líquido restante; apagar y añadir el ajo.
 5. Enfriar todo. Triturar con el tofu listo para consumir —o previamente cocinado según su envase— y ajustar la textura.
-6. Al servir, recalentar a 74 °C; cuando deje de hervir, añadir berros, cáñamo, AOVE, limón, hierbas y pimienta.
+6. Al servir, recalentar a 74 °C; cuando deje de hervir, añadir berros o rúcula, cáñamo o nueces picadas, AOVE, limón, hierbas y pimienta.
 
 ### Por qué se procesa así
 
-El tofu no necesita otra cocción si el envase lo identifica como listo para consumir. Los berros se compran y añaden frescos a cada ración para evitar congelarlos y recalentarlos; aportan vitamina C y una fuente de mirosinasa para el brócoli cocinado.
+El tofu no necesita otra cocción si el envase lo identifica como listo para consumir. Los berros se compran y añaden frescos a cada ración para evitar congelarlos y recalentarlos; aportan vitamina C y una fuente de mirosinasa para el brócoli cocinado. La rúcula cumple la misma función práctica como alternativa fresca cuando no hay berros. Las nueces sustituyen al cáñamo por disponibilidad y textura, pero no reproducen exactamente su perfil nutricional ni su aporte proteico.
 
 ---
 
