@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Desayunos y comidas · hoja diaria</title>
+<style>
+  @page { size: A4 portrait; margin: 0; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: #e8e8e8; color: #111; font-family: Arial, Helvetica, sans-serif; }
+  .page {
+    width: 210mm;
+    height: 297mm;
+    margin: 0 auto 8mm;
+    padding: 6mm;
+    background: #fff;
+    display: grid;
+    grid-template-rows: 16mm 1fr 9mm;
+    gap: 2mm;
+    overflow: hidden;
+    break-after: page;
+    page-break-after: always;
+  }
+  .page:last-child { break-after: auto; page-break-after: auto; }
+  header { position: relative; border-bottom: .45mm solid #111; }
+  h1 { margin: 0; font-size: 16.5pt; line-height: 1; letter-spacing: -.3pt; }
+  .summary { position: absolute; right: 0; top: .8mm; font-size: 7.2pt; font-weight: 800; letter-spacing: .5pt; }
+  .legend { margin-top: 2.2mm; font-size: 6.25pt; color: #333; white-space: nowrap; }
+  .grid { display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, minmax(0, 1fr)); gap: 2.2mm; min-height: 0; }
+  .card { border: .25mm solid #3a3a3a; border-left: 1.1mm solid #111; min-height: 0; overflow: hidden; background: #fff; }
+  .card-head { height: 11mm; padding: 2mm 2.3mm 1.3mm; background: #ececec; border-bottom: .2mm solid #aaa; }
+  .day { display: block; font-weight: 900; font-size: 9.6pt; line-height: 1; letter-spacing: .35pt; }
+  .name { display: block; margin-top: .9mm; font-weight: 700; font-size: 7.1pt; line-height: 1; color: #3a3a3a; }
+  .body { padding: 1.6mm 2.2mm 1.2mm; font-size: 7pt; line-height: 1.16; }
+  section { margin: 0 0 1.25mm; }
+  h2 { display: flex; align-items: center; gap: 1.2mm; margin: 0 0 .65mm; font-size: 6pt; line-height: 1; letter-spacing: .42pt; color: #333; }
+  h2::after { content: ""; height: .18mm; flex: 1; background: #b5b5b5; }
+  ul { list-style: none; padding: 0; margin: 0; }
+  li { position: relative; margin: 0 0 .42mm; padding-left: 3.4mm; break-inside: avoid; }
+  li::before { content: ""; position: absolute; left: 0; top: .2mm; width: 1.7mm; height: 1.7mm; border: .2mm solid #555; }
+  .note, .dinner { margin-top: .8mm; padding: .9mm 1.1mm; font-size: 6pt; line-height: 1.2; color: #303030; }
+  .note { background: #f0f0f0; font-weight: 700; }
+  .dinner { border: .2mm solid #aaa; font-weight: 700; }
+  .dinner strong, .note strong { letter-spacing: .3pt; }
+  footer { position: relative; border-top: .25mm solid #aaa; padding-top: 1.2mm; font-size: 5.65pt; line-height: 1.25; color: #333; }
+  footer strong { font-weight: 800; }
+  footer .page-no { position: absolute; right: 0; bottom: 0; font-size: 6pt; font-weight: 800; }
+  @media screen {
+    body { padding: 12px; }
+    .page { box-shadow: 0 2px 16px rgba(0,0,0,.18); }
+  }
+  @media print {
+    html, body { width: 210mm; background: #fff; }
+    body { padding: 0; }
+    .page { margin: 0; box-shadow: none; }
+    * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+</style>
+</head>
+<body>
+
+<main class="page" id="desayunos">
+  <header>
+    <h1>DESAYUNOS · HOJA DIARIA</h1>
+    <div class="summary">LUNES–SÁBADO · 1 PERSONA</div>
+    <div class="legend"><strong>Seco</strong>: avena · <strong>c/e</strong>: cocido y escurrido · Leche/soja: sin azúcar y enriquecida con calcio</div>
+  </header>
+
+  <div class="grid">
+    <article class="card">
+      <div class="card-head"><span class="day">LUNES</span><span class="name">Bol de yogur + tostada con huevo</span></div>
+      <div class="body">
+        <section><h2>COMPRA · 1 DESAYUNO</h2><ul>
+          <li>250 ml leche o bebida de soja</li><li>150 g skyr o yogur alto en proteína</li><li>40 g avena en seco</li><li>100 g arándanos congelados</li><li>15 g germen de trigo</li><li>10 g lino para moler</li><li>10 g nueces</li><li>50 g pan integral</li><li>100 g tomate triturado</li><li>5 g AOVE</li><li>1 huevo</li>
+        </ul></section>
+        <div class="note"><strong>BREVE</strong> · Descongela los arándanos en nevera. Añade lino y nueces al servir. Mientras quede jamón: 50 g sustituyen al huevo.</div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><span class="day">MARTES</span><span class="name">Tostadas con huevo y aguacate</span></div>
+      <div class="body">
+        <section><h2>COMPRA · 1 DESAYUNO</h2><ul>
+          <li>250 ml leche o bebida de soja</li><li>2 huevos</li><li>80 g pan integral</li><li>150 g tomate triturado</li><li>5 g AOVE</li><li>70 g aguacate</li><li>125 g yogur natural</li><li>10 g chía para moler</li><li>1 kiwi</li>
+        </ul></section>
+        <div class="note"><strong>BREVE</strong> · Mezcla la chía con el yogur. Sirve aguacate y huevo sobre las tostadas.</div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><span class="day">MIÉRCOLES</span><span class="name">Bol de cacao + tostada de sardina</span></div>
+      <div class="body">
+        <section><h2>COMPRA · 1 DESAYUNO</h2><ul>
+          <li>250 ml leche o bebida de soja</li><li>150 g skyr</li><li>40 g avena en seco</li><li>100 g arándanos</li><li>10 g chía para moler</li><li>15 g almendras</li><li>5 g cacao puro sin azúcar</li><li>50 g pan integral</li><li>100 g tomate triturado</li><li>5 g AOVE</li><li>60 g sardinas con espina, escurridas</li>
+        </ul></section>
+        <div class="note"><strong>BREVE</strong> · Reposa el bol 5–10 min y añade las almendras al final. No sustituir la sardina por jamón.</div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><span class="day">JUEVES</span><span class="name">Kéfir con avena + tostada de tofu</span></div>
+      <div class="body">
+        <section><h2>COMPRA · 1 DESAYUNO</h2><ul>
+          <li>250 ml kéfir natural</li><li>100 g skyr</li><li>40 g avena en seco</li><li>100 g arándanos</li><li>15 g germen de trigo</li><li>10 g lino para moler</li><li>50 g pan integral</li><li>100 g tomate triturado</li><li>5 g AOVE</li><li>120 g tofu con calcio</li>
+        </ul></section>
+        <div class="note"><strong>BREVE</strong> · No añadir los 250 ml habituales de leche/soja. Tofu directo solo si indica «listo para consumir»; si no, cocinar según envase.</div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><span class="day">VIERNES</span><span class="name">Tostadas con skyr y tomate</span></div>
+      <div class="body">
+        <section><h2>COMPRA · 1 DESAYUNO</h2><ul>
+          <li>250 ml leche o bebida de soja</li><li>150 g skyr o yogur alto en proteína</li><li>80 g pan integral</li><li>150 g tomate triturado</li><li>5 g AOVE</li><li>100 g arándanos</li><li>10 g nueces</li>
+        </ul></section>
+        <div class="note"><strong>BREVE</strong> · Reparte el skyr sobre las tostadas. Mientras quede jamón: 50 g sustituyen al skyr; no tomar ambos.</div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><span class="day">SÁBADO</span><span class="name">Bol de plátano + tostada con huevo</span></div>
+      <div class="body">
+        <section><h2>COMPRA · 1 DESAYUNO</h2><ul>
+          <li>250 ml leche o bebida de soja</li><li>150 g skyr</li><li>50 g avena en seco</li><li>1 plátano</li><li>100 g arándanos</li><li>10 g chía para moler</li><li>50 g pan integral</li><li>100 g tomate triturado</li><li>5 g AOVE</li><li>1 huevo</li>
+        </ul></section>
+        <div class="note"><strong>BREVE</strong> · Mientras quede jamón: 50 g sustituyen al huevo. Si vas a nadar, deja 60–90 min tras desayunar.</div>
+      </div>
+    </article>
+  </div>
+
+  <footer>
+    <strong>Común:</strong> moler lino/chía en pequeñas cantidades y refrigerar lo molido. El skyr puede ser yogur natural con 9–11 g proteína/100 g. Agitar la bebida vegetal antes de servir.
+    <span class="page-no">1 / 2</span>
+  </footer>
+</main>
+
+<main class="page" id="comidas">
+  <header>
+    <h1>COMIDAS · HOJA DIARIA</h1>
+    <div class="summary">LUNES–SÁBADO · 1 PERSONA</div>
+    <div class="legend"><strong>Seco</strong>: quinoa, arroz, bulgur y pasta · <strong>Crudo</strong>: carne/pescado · <strong>c/e</strong>: cocido y escurrido</div>
+  </header>
+
+  <div class="grid">
+    <article class="card">
+      <div class="card-head"><span class="day">LUNES</span><span class="name">Salmón, quinoa y ensalada</span></div>
+      <div class="body">
+        <section><h2>COMPRA · 1 COMIDA</h2><ul>
+          <li>120 g salmón crudo</li><li>70 g quinoa en seco</li><li>250 g ensalada: 100 g alcachofa + 150 g hojas, tomate, pepino o cebolla</li><li>10 g AOVE</li><li>Limón, eneldo y pimienta</li><li>1 fruta</li>
+        </ul></section>
+        <div class="note"><strong>BREVE</strong> · Enjuaga y cuece la quinoa. Cocina el centro del salmón completamente, sin quemar.</div>
+        <div class="dinner"><strong>CENA SIN CREMA</strong> · 80 g pan de centeno integral + 150 g skyr o yogur alto en proteína.</div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><span class="day">MARTES</span><span class="name">Pollo, arroz integral y verduras</span></div>
+      <div class="body">
+        <section><h2>COMPRA · 1 COMIDA</h2><ul>
+          <li>100 g pollo crudo deshuesado</li><li>90 g arroz integral en seco</li><li>250 g verduras: 100 g judías verdes + 150 g calabacín, zanahoria o espárragos</li><li>10 g AOVE</li><li>Limón, pimienta, ajo y hierbas</li><li>1 naranja</li>
+        </ul></section>
+        <div class="note"><strong>BREVE</strong> · Hierve las judías al menos 10 min. Cocina el pollo completamente (74 °C si se mide).</div>
+        <div class="dinner"><strong>CENA SIN CREMA</strong> · 80 g pan integral + 100 g skyr o yogur alto en proteína.</div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><span class="day">MIÉRCOLES</span><span class="name">Ternera, patata y ensalada</span></div>
+      <div class="body">
+        <section><h2>COMPRA · 1 COMIDA</h2><ul>
+          <li>120 g ternera magra cruda</li><li>350 g patata</li><li>250 g ensalada variada</li><li>10 g AOVE</li><li>Pimienta y romero</li><li>Limón o vinagre</li><li>1 fruta</li>
+        </ul></section>
+        <div class="note"><strong>BREVE</strong> · Cuece la patata con la piel bien lavada. Cocina la ternera sin carbonizar.</div>
+        <div class="dinner"><strong>CENA SIN CREMA</strong> · 80 g pan integral + 1 fruta.</div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><span class="day">JUEVES</span><span class="name">Pavo, bulgur y verduras</span></div>
+      <div class="body">
+        <section><h2>COMPRA · 1 COMIDA</h2><ul>
+          <li>100 g pavo crudo</li><li>100 g bulgur integral en seco</li><li>250 g verduras al vapor</li><li>10 g AOVE</li><li>Limón, comino, perejil y pimienta</li><li>1 fruta</li>
+        </ul></section>
+        <div class="note"><strong>BREVE</strong> · Cuece el bulgur según envase. Cocina el pavo completamente (74 °C si se mide).</div>
+        <div class="dinner"><strong>CENA SIN CREMA</strong> · 2 huevos + 60 g pan integral.</div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><span class="day">VIERNES</span><span class="name">Pasta integral con mejillones</span></div>
+      <div class="body">
+        <section><h2>COMPRA · 1 COMIDA</h2><ul>
+          <li>120 g carne de mejillón c/e; o 400–500 g con concha</li><li>100 g pasta integral en seco</li><li>200 g tomate triturado</li><li>100 g espinaca</li><li>100 g guisantes cocidos</li><li>10 g AOVE</li><li>Ajo, perejil, pimienta y pimentón</li><li>1 fruta</li>
+        </ul></section>
+        <div class="note"><strong>BREVE</strong> · Desecha mejillones rotos, los que no cierren antes de cocer y los que no abran después.</div>
+        <div class="dinner"><strong>CENA SIN CREMA</strong> · 80 g pan integral + 100 g skyr o yogur alto en proteína.</div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><span class="day">SÁBADO</span><span class="name">Sardinas, patata y ensalada</span></div>
+      <div class="body">
+        <section><h2>COMPRA · 1 COMIDA</h2><ul>
+          <li>120 g sardinas con espina: frescas crudas o conserva escurrida</li><li>350 g patata</li><li>250 g ensalada: al menos 100 g lechuga romana + otras verduras</li><li>5 g AOVE</li><li>Limón, perejil y pimienta</li><li>1 fruta</li>
+        </ul></section>
+        <div class="note"><strong>BREVE</strong> · Cuece la patata. Cocina la sardina fresca sin quemarla; controla el sodio si es conserva.</div>
+        <div class="dinner"><strong>CENA SIN CREMA</strong> · 150 g skyr o yogur alto en proteína + 60 g pan integral.</div>
+      </div>
+    </article>
+  </div>
+
+  <footer>
+    <strong>Seguridad:</strong> descongela carne, pescado y marisco en nevera. Añade el AOVE al final. Enfría rápido cereal/patata cocidos; arroz ≤24 h y demás 3–4 días en nevera, o congela antes.
+    <span class="page-no">2 / 2</span>
+  </footer>
+</main>
+
+</body>
+</html>
