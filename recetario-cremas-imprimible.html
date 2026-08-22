@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Cremas · hoja de compra</title>
+<style>
+  @page { size: A4 portrait; margin: 0; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: #e9e9e9; color: #111; font-family: Arial, Helvetica, sans-serif; }
+  .sheet {
+    width: 210mm;
+    height: 297mm;
+    margin: 0 auto;
+    padding: 6mm;
+    background: #fff;
+    display: grid;
+    grid-template-rows: 15mm 1fr 6mm;
+    gap: 2mm;
+    overflow: hidden;
+  }
+  header { position: relative; border-bottom: .45mm solid #111; }
+  h1 { margin: 0; font-size: 17pt; line-height: 1; letter-spacing: -.35pt; }
+  .summary { position: absolute; right: 0; top: 1mm; font-size: 7.2pt; font-weight: 800; letter-spacing: .5pt; }
+  .legend { margin-top: 2.1mm; font-size: 6.5pt; color: #333; white-space: nowrap; }
+  .grid { display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, minmax(0, 1fr)); gap: 2.2mm; min-height: 0; }
+  .card { border: .25mm solid #3a3a3a; border-left: 1.1mm solid #111; min-height: 0; overflow: hidden; background: #fff; }
+  .card-head { height: 10mm; padding: 2mm 2.3mm 1.3mm; background: #ededed; border-bottom: .2mm solid #aaa; }
+  .day { display: block; font-weight: 900; font-size: 9.4pt; line-height: 1; letter-spacing: .35pt; }
+  .name { display: block; margin-top: .8mm; font-weight: 700; font-size: 6.9pt; line-height: 1; color: #3a3a3a; }
+  .body { padding: 1.5mm 2.2mm 1.2mm; font-size: 6.35pt; line-height: 1.12; }
+  section { margin: 0 0 1mm; }
+  h2 { display: flex; align-items: center; gap: 1.2mm; margin: 0 0 .55mm; font-size: 5.7pt; line-height: 1; letter-spacing: .4pt; color: #333; }
+  h2::after { content: ""; height: .18mm; flex: 1; background: #b8b8b8; }
+  ul { list-style: none; padding: 0; margin: 0; column-gap: 2mm; }
+  li { position: relative; margin: 0 0 .3mm; padding-left: 3.2mm; break-inside: avoid; }
+  li::before { content: ""; position: absolute; left: 0; top: .15mm; width: 1.6mm; height: 1.6mm; border: .2mm solid #555; }
+  .note { margin-top: .7mm; padding: .8mm 1mm; background: #f0f0f0; font-size: 5.55pt; line-height: 1.15; font-weight: 700; color: #333; }
+  footer { position: relative; border-top: .25mm solid #aaa; padding-top: 1.3mm; font-size: 5.4pt; font-weight: 700; color: #333; }
+  footer .source { position: absolute; right: 0; font-weight: 400; color: #555; }
+  @media screen {
+    body { padding: 12px; }
+    .sheet { box-shadow: 0 2px 16px rgba(0,0,0,.18); }
+  }
+  @media print {
+    html, body { width: 210mm; height: 297mm; background: #fff; }
+    body { padding: 0; }
+    .sheet { margin: 0; box-shadow: none; }
+    * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+</style>
+</head>
+<body>
+<main class="sheet">
+  <header>
+    <h1>CREMAS · HOJA DE COMPRA</h1>
+    <div class="summary">6 LOTES · 30 RACIONES</div>
+    <div class="legend">Peso útil · <strong>c/e</strong> = cocido y escurrido · <strong>Lote</strong>: compra completa · <strong>Despensa</strong>: total para 5 · <strong>Fresco/cena</strong>: 1 servicio</div>
+  </header>
+
+  <div class="grid">
+    <article class="card">
+      <div class="card-head"><span class="day">LUNES</span><span class="name">Crucífera con alubia blanca</span></div>
+      <div class="body">
+        <section><h2>LOTE · 5 RACIONES</h2><ul>
+          <li>450 g brócoli</li><li>300 g col lombarda</li><li>150 g kale</li><li>350 g calabacín con piel</li><li>250 g puerro</li><li>150 g cebolla</li><li>550 g alubia blanca c/e</li><li>15 g ajo</li><li>500 ml agua o caldo bajo en sal</li>
+        </ul></section>
+        <section><h2>DESPENSA · TOTAL 5 SERVICIOS</h2><ul><li>50 g AOVE</li><li>50 g lino entero</li><li>2,5–5 g mostaza en polvo</li></ul></section>
+        <section><h2>FRESCO · POR SERVICIO</h2><ul><li>15–20 ml limón</li><li>5 g perejil</li></ul></section>
+        <section><h2>CENA · POR SERVICIO</h2><ul><li>80 g pan de centeno integral + 150 g skyr</li></ul></section>
+        <div class="note">ALTERNATIVA · Kale → 150 g nabizas. No sumar ambas.</div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><span class="day">MARTES</span><span class="name">Mediterránea con garbanzo</span></div>
+      <div class="body">
+        <section><h2>LOTE · 5 RACIONES</h2><ul>
+          <li>700 g tomate maduro</li><li>250 g pimiento rojo para asar</li><li>250 g zanahoria</li><li>300 g calabacín con piel</li><li>200 g cebolla</li><li>550 g garbanzos c/e</li><li>50 g concentrado de tomate bajo en sal</li><li>15 g ajo</li><li>300–400 ml agua o caldo bajo en sal</li><li>4 g pimentón dulce</li><li>0,5 g pimienta negra</li>
+        </ul></section>
+        <section><h2>DESPENSA · TOTAL 5 SERVICIOS</h2><ul><li>50 g AOVE</li><li>50 g tahini integral</li><li>50 ml vinagre de Jerez</li></ul></section>
+        <section><h2>FRESCO · POR SERVICIO</h2><ul><li>20 g pimiento rojo</li><li>5 g albahaca</li></ul></section>
+        <section><h2>CENA · POR SERVICIO</h2><ul><li>80 g pan integral + 100 g skyr</li></ul></section>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><span class="day">MIÉRCOLES</span><span class="name">Verde hiperproteica con edamame y tofu</span></div>
+      <div class="body">
+        <section><h2>LOTE · 5 RACIONES</h2><ul>
+          <li>300 g brócoli</li><li>200 g kale</li><li>350 g guisantes c/e</li><li>300 g calabacín</li><li>200 g puerro</li><li>500 g edamame c/e</li><li>300 g tofu con calcio, escurrido</li><li>15 g ajo</li><li>450 ml agua o caldo bajo en sal</li>
+        </ul></section>
+        <section><h2>DESPENSA · TOTAL 5 SERVICIOS</h2><ul><li>75 g semillas de cáñamo</li><li>25 g AOVE</li><li>2,5 g pimienta negra</li></ul></section>
+        <section><h2>FRESCO · POR SERVICIO</h2><ul><li>30 g berros</li><li>15 ml limón</li><li>5 g menta o cilantro</li></ul></section>
+        <section><h2>CENA · POR SERVICIO</h2><ul><li>80 g pan integral + 1 fruta</li></ul></section>
+        <div class="note">ALTERNATIVAS · Kale → 200 g nabizas · berros → 30 g rúcula · cáñamo → 75 g nueces (menos proteína).</div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><span class="day">JUEVES</span><span class="name">Naranja con lenteja y setas</span></div>
+      <div class="body">
+        <section><h2>LOTE · 5 RACIONES</h2><ul>
+          <li>650 g calabaza</li><li>300 g boniato</li><li>250 g zanahoria</li><li>300 g setas limpias (UV si se cuenta vit. D)</li><li>550 g lentejas c/e</li><li>200 g cebolla</li><li>15 g jengibre fresco (o 1 g molido)</li><li>5 g cúrcuma molida</li><li>0,5 g pimienta negra</li><li>550 ml agua o caldo bajo en sal</li>
+        </ul></section>
+        <section><h2>DESPENSA · TOTAL 5 SERVICIOS</h2><ul><li>75 g semillas de calabaza</li><li>25 g AOVE</li></ul></section>
+        <section><h2>FRESCO · POR SERVICIO</h2><ul><li>15 ml limón o lima</li><li>5 g cilantro</li></ul></section>
+        <section><h2>CENA · POR SERVICIO</h2><ul><li>2 huevos + 60 g pan integral</li></ul></section>
+        <div class="note">NOTA · Las setas normales sirven; sin etiqueta UV no se contabiliza vitamina D.</div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><span class="day">VIERNES</span><span class="name">Blanca con cannellini y setas</span></div>
+      <div class="body">
+        <section><h2>LOTE · 5 RACIONES</h2><ul>
+          <li>550 g coliflor</li><li>400 g setas variadas</li><li>350 g puerro</li><li>250 g apionabo</li><li>500 g cannellini c/e</li><li>150 g cebolla</li><li>15 g ajo</li><li>500 ml agua o caldo bajo en sal</li><li>2 g tomillo seco</li><li>0,5 g nuez moscada</li>
+        </ul></section>
+        <section><h2>DESPENSA · TOTAL 5 SERVICIOS</h2><ul><li>75 g semillas de girasol</li><li>25 g AOVE</li></ul></section>
+        <section><h2>FRESCO · POR SERVICIO</h2><ul><li>20 g rúcula</li><li>15 ml limón</li><li>2 g tomillo fresco</li></ul></section>
+        <section><h2>CENA · POR SERVICIO</h2><ul><li>80 g pan integral + 100 g skyr</li></ul></section>
+        <div class="note">ALTERNATIVAS · Sin apionabo: 100 g apio + 150 g coliflor extra · cannellini → alubia blanca 1:1.</div>
+      </div>
+    </article>
+
+    <article class="card">
+      <div class="card-head"><span class="day">SÁBADO</span><span class="name">Púrpura con alubia negra</span></div>
+      <div class="body">
+        <section><h2>LOTE · 5 RACIONES</h2><ul>
+          <li>450 g berenjena con piel</li><li>500 g tomate</li><li>200 g pimiento rojo para asar</li><li>200 g remolacha c/e</li><li>200 g col lombarda</li><li>550 g alubia negra c/e</li><li>150 g cebolla morada</li><li>15 g ajo</li><li>350 ml agua o caldo bajo en sal</li><li>3 g comino molido</li><li>3 g pimentón dulce</li>
+        </ul></section>
+        <section><h2>DESPENSA · TOTAL 5 SERVICIOS</h2><ul><li>75 g nueces</li><li>25 g AOVE</li></ul></section>
+        <section><h2>FRESCO · POR SERVICIO</h2><ul><li>20 g pimiento rojo</li><li>15–20 ml naranja o lima</li><li>5 g cilantro o perejil</li></ul></section>
+        <section><h2>CENA · POR SERVICIO</h2><ul><li>150 g skyr + 60 g pan integral</li></ul></section>
+      </div>
+    </article>
+  </div>
+
+  <footer>
+    Compra un 5–15 % extra si hay pieles o descartes. Los frescos no se congelan. Divide cada lote terminado por peso entre 5.
+    <span class="source">Fuentes: recetario · lista de compra · plan semanal</span>
+  </footer>
+</main>
+</body>
+</html>
