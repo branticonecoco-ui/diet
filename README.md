@@ -12,6 +12,7 @@ Este repositorio documenta un plan alimentario personal, práctico y reproducibl
 | Saber qué se come y cuánto cada día | [`plan-semanal.md`](plan-semanal.md) |
 | Preparar desayunos, comidas y acompañamientos | [`recetario-comidas.md`](recetario-comidas.md) |
 | Preparar, enfriar, triturar, congelar y servir las cremas | [`recetario-cremas.md`](recetario-cremas.md) |
+| Consultar la traducción inglesa del recetario de cremas | [`cream-soup-recipes.md`](cream-soup-recipes.md) |
 | Comprar ingredientes de los lotes de cremas | [`lista-compra-cremas.md`](lista-compra-cremas.md) |
 | Imprimir el recetario y la compra de las cremas | [`recetario-cremas-imprimible.pdf`](recetario-cremas-imprimible.pdf) |
 | Imprimir desayunos y comidas | [`recetario-comidas-imprimible.pdf`](recetario-comidas-imprimible.pdf) |
