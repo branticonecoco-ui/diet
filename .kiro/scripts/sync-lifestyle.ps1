@@ -39,20 +39,26 @@ function Invoke-GitCommand {
     }
 
     $allArguments = @($prefix + $Arguments)
-    $previousErrorActionPreference = $ErrorActionPreference
+    $stderrFile = [System.IO.Path]::GetTempFileName()
     try {
-        # Windows PowerShell convierte stderr nativo en ErrorRecord. Git escribe
-        # mensajes normales como "Everything up-to-date" en stderr, por lo que
-        # se captura con Continue y se decide el resultado solo por el exit code.
-        $ErrorActionPreference = 'Continue'
-        $output = @(& git @allArguments 2>&1)
-        $exitCode = $LASTEXITCODE
+        $previousErrorActionPreference = $ErrorActionPreference
+        try {
+            # Keep stdout and stderr separate. Git writes normal progress and
+            # warnings to stderr, and those lines must never be mistaken for
+            # file paths returned by commands such as diff --name-only.
+            $ErrorActionPreference = 'Continue'
+            $output = @(& git @allArguments 2> $stderrFile)
+            $exitCode = $LASTEXITCODE
+        } finally {
+            $ErrorActionPreference = $previousErrorActionPreference
+        }
+        $errorOutput = [System.IO.File]::ReadAllText($stderrFile).Trim()
     } finally {
-        $ErrorActionPreference = $previousErrorActionPreference
+        Remove-Item -LiteralPath $stderrFile -Force -ErrorAction SilentlyContinue
     }
 
     if ($AllowedExitCodes -notcontains $exitCode) {
-        $details = ($output | ForEach-Object { "$_" }) -join [Environment]::NewLine
+        $details = (@($output | ForEach-Object { "$_" }) + @($errorOutput)) -join [Environment]::NewLine
         if ([string]::IsNullOrWhiteSpace($details)) {
             $details = 'Git no devolvió detalles adicionales.'
         }
@@ -109,7 +115,9 @@ function Test-SensitivePath {
 
 function Assert-ChangedPathsAreSafe {
     param(
-        [Parameter(Mandatory)][string[]]$Paths,
+        [Parameter(Mandatory)]
+        [AllowEmptyCollection()]
+        [string[]]$Paths,
         [Parameter(Mandatory)][string]$RepositoryRoot
     )
 
@@ -280,7 +288,7 @@ try {
 
     Write-SyncMessage "Sincronización completada: $aheadCount commit(s) publicado(s) en $ExpectedAccount/diet ($ExpectedBranch)."
 } catch {
-    Write-Error "[lifestyle-sync] $($_.Exception.Message)"
+    [Console]::Error.WriteLine("[lifestyle-sync] $($_.Exception.Message)")
     exit 1
 } finally {
     if ($null -ne $lockPath -and (Test-Path -LiteralPath $lockPath)) {
