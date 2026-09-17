@@ -9,6 +9,7 @@ Este repositorio documenta un plan alimentario personal, práctico y reproducibl
 | Necesidad | Fuente que debe consultarse |
 |---|---|
 | Entender objetivos, prioridades y decisiones nutricionales | [`.kiro/steering/contexto-dieta.md`](.kiro/steering/contexto-dieta.md) |
+| Comparar y seguir AOVEs de alta carga fenólica | [`aceites-oliva-alto-fenolicos.md`](aceites-oliva-alto-fenolicos.md) |
 | Saber qué se come y cuánto cada día | [`plan-semanal.md`](plan-semanal.md) |
 | Preparar desayunos, comidas y acompañamientos | [`recetario-comidas.md`](recetario-comidas.md) |
 | Preparar, enfriar, triturar, congelar y servir las cremas | [`recetario-cremas.md`](recetario-cremas.md) |

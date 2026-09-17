@@ -76,6 +76,17 @@ El resto del día debe centrarse más en:
 
 Esto no significa que la comida principal deba ser únicamente carne o pescado. Debe incluir también una fuente razonable de carbohidrato y energía, especialmente al comenzar la natación.
 
+## Selección pendiente de AOVE con alta carga fenólica
+
+- El usuario está buscando un AOVE con una carga fenólica muy alta, acreditada para el lote realmente comprado y disponible desde España.
+- Sus candidatos iniciales son Dominus Acebuche, Lasolana2 y Ecoprolive.
+- **Pamako Monovarietal es la prioridad provisional** por combinar certificados fenólicos detallados, resultados históricos próximos o superiores a 2.000 mg/kg mediante RMN y un precio razonable en Elenianna para el formato de 500 ml.
+- La ficha comercial localizada corresponde a una muestra de noviembre de 2025; todavía no se ha seleccionado ni comprado ningún lote y se está esperando la cosecha 2026/27.
+- Las cifras de campañas anteriores no se extrapolan al nuevo lote. Antes de comprar se deben comparar cosecha, lote, fecha, laboratorio, método, polifenoles analizados, derivados de tirosol e hidroxitirosol, oleocanthal, oleaceína, parámetros oxidativos, envase y precio final.
+- Folin, HPLC, método COI y qNMR/RMN no se tratan como escalas intercambiables. Los puestos de concurso sirven para localizar candidatos, no para atribuir una cifra ausente.
+- Elegir una marca no añadirá automáticamente una dosis nueva al menú: el aceite seleccionado sustituirá al AOVE genérico ya previsto, manteniendo cantidades salvo revisión completa de energía.
+- La comparación, fuentes, candidatos y protocolo de compra están en #[[file:../../aceites-oliva-alto-fenolicos.md]].
+
 ## Arquitectura del plan
 
 ### Desayuno
