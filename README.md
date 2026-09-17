@@ -215,6 +215,30 @@ Además, estas alternativas aparecen únicamente en el imprimible de cremas y no
 
 Ante cualquiera de estas divergencias, debe consultarse la fuente Markdown, confirmarse la decisión y sincronizar después todos los documentos afectados.
 
+## Sincronización automática de este workspace
+
+El hook de workspace `.kiro/hooks/lifestyle-github-sync.json` ejecuta `.kiro/scripts/sync-lifestyle.ps1` al finalizar cada ejecución de Kiro. Si existen cambios, el script crea un commit y lo publica exclusivamente en `https://github.com/branticonecoco-ui/diet.git`, rama `docs/dieta-semanal`.
+
+La autenticación se selecciona por comando mediante Git Credential Manager y la cuenta `branticonecoco-ui`. No modifica la configuración Git global ni la autenticación de `roxcult` utilizada por otros repositorios.
+
+Protecciones incorporadas:
+
+- comprueba la raíz, el remoto y la rama exactos antes de actuar;
+- bloquea archivos de credenciales, claves y otros secretos comunes, así como archivos modificados de más de 50 MB;
+- no actúa durante merges, rebases u otras operaciones Git incompletas;
+- se detiene si la rama remota contiene commits ausentes localmente;
+- nunca hace `pull`, rebase automático ni `force push`;
+- utiliza un bloqueo temporal para evitar dos sincronizaciones simultáneas;
+- si un commit local no puede publicarse, lo conserva para reintentarlo o revisarlo manualmente.
+
+Validación manual sin crear commits ni modificar GitHub:
+
+```powershell
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File ".kiro/scripts/sync-lifestyle.ps1" -ValidateOnly
+```
+
+El hook puede consultarse o desactivarse desde la sección **Agent Hooks** de Kiro.
+
 ## Alcance
 
 Este repositorio es una herramienta de organización y documentación alimentaria. Las decisiones clínicas, suplementación, interpretación de analíticas y tratamiento de enfermedades quedan fuera de su alcance y requieren profesionales cualificados.

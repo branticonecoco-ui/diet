@@ -1,0 +1,14 @@
+{
+  "version": "v1",
+  "hooks": [
+    {
+      "name": "Sincronizar lifestyle con GitHub",
+      "trigger": "Stop",
+      "description": "Agrupa los cambios de life_style, crea un commit y los publica en branticonecoco-ui/diet usando exclusivamente la credencial de lifestyle y protecciones contra conflictos o secretos.",
+      "action": {
+        "type": "command",
+        "command": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File \".kiro/scripts/sync-lifestyle.ps1\""
+      }
+    }
+  ]
+}
